@@ -3,28 +3,4 @@
 ---
 
 ---
-
-```base
-filters:
-  and:
-    - categories.contains(link("Projects"))
-    - '!file.inFolder("Templates")'
-views:
-  - type: table
-    name: This
-    filters:
-      or:
-        - list(references).containsAny(list(this))
-        - list(section).containsAny(list(this))
-    order:
-      - file.name
-      - created
-      - file.tags
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      file.name: 274
-      note.created: 216
-
-```
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>File</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>Created</span></th><th class="table-view-th"><span>File Tags</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Pulciņa programmas apraksts.md" data-href="Notes/Pulciņa programmas apraksts.md" href="Notes/Pulciņa programmas apraksts.md" class="internal-link" target="_blank" rel="noopener nofollow">Pulciņa programmas apraksts</a></span></td><td><span>14.09.2026</span></td><td><span><a href="#note" class="tag" target="_blank" rel="noopener nofollow">#note</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Pulciņa vēstule.md" data-href="Notes/Pulciņa vēstule.md" href="Notes/Pulciņa vēstule.md" class="internal-link" target="_blank" rel="noopener nofollow">Pulciņa vēstule</a></span></td><td><span>12.09.2026</span></td><td><span><a href="#note" class="tag" target="_blank" rel="noopener nofollow">#note</a> <a href="#journal" class="tag" target="_blank" rel="noopener nofollow">#journal</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Form results 2026.md" data-href="Notes/Form results 2026.md" href="Notes/Form results 2026.md" class="internal-link" target="_blank" rel="noopener nofollow">Form results 2026</a></span></td><td><span>14.09.2026</span></td><td><span><a href="#note" class="tag" target="_blank" rel="noopener nofollow">#note</a></span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Token for access to hosted page.md" data-href="Notes/Token for access to hosted page.md" href="Notes/Token for access to hosted page.md" class="internal-link" target="_blank" rel="noopener nofollow">Token for access to hosted page</a></span></td><td><span>14.09.2026</span></td><td><span><a href="#note" class="tag" target="_blank" rel="noopener nofollow">#note</a></span></td></tr></tbody></table></div>
