@@ -24,7 +24,7 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 502
+      file.name: 274
       note.created: 216
 
 ```
