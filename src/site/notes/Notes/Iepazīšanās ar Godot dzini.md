@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/iepazisanas-ar-godot-dzini/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/2. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-21","cssclasses":null}}
 ---
 
+[[Notes/2. Pulciņa nodarbība\|Atpakaļ]]
+
 ---
 # Virspusēji
 Mūsdienās, vairāk, kā jebkad, ir pieejami bezmaksas rīki datorspēļu izveidei. Starp ilgstoši populārākajiem [[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|plašpatēriņa]] dziņiem – _Unity Engine_ un _Unreal Engine_, ir parādījusies jauna opcija, kas strauji ieguvusi popularitāti – _Godot Engine_.

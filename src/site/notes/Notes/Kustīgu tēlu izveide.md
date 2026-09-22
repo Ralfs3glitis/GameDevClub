@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/kustigu-telu-izveide/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/2. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-21","cssclasses":null}}
 ---
 
+[[Notes/2. Pulciņa nodarbība\|Atpakaļ]]
+
 ---
 # Gatavošanās
 ## [[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|Aseti]]
