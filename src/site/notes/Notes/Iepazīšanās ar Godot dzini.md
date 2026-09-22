@@ -11,20 +11,18 @@ Mūsdienās, vairāk, kā jebkad, ir pieejami bezmaksas rīki datorspēļu izvei
 Šī bezmaksas [[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|atklātā pirmkoda programmatūra]], kas izlaista saskaņā ar liberālo _MIT_ licenci, sniedz iespēju neatkarīgiem izstrādātājiem konkurēt ar bagātajām _[[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|AAA]]_ firmām datorspēļu tirgū.
 # Detalizēti
 ## Godot arhitektūra
-Galvenā īpašība, ar ko _Godot_ atšķirās no citiem dziņiem, ir mezgli
-![](file:///tmp/lu96997867e2.tmp/lu96997867hd_tmp_d1f8d6d3.png)
-
-- "Mezgli" (_Nodes_) ir galvenais būvmateriāls _Godot_ struktūrā. Tiem piemīt nosaukums un rediģējamas īpašības, un tie manto dažādus iebūvētus _Godot_ tipus, piemēram, objektus. Katram mezglam ir sava konkrēta funkcija — piemēram, parādīt attēlu, atskaņot skaņu, vadīt fiziku vai kalpot par kameru.
-- Mezgliem var būt "bērni" (_children_), turpmāk – _apakšelementi_ mezglu hierarhijā. 
-- Šo hierarhiju sauc par "ainu" (_scene_), to iespējams saglabāt un izsaukt atkārtotai lietojamībai. 
-- Mezglam var arī pievienot "skriptu" (_script_), kas ir programmējams, lai paplašinātu tā funkcionalitāti. Skripti ir programmējami galvenokārt _C#_ un _GDScript_ valodās, bet neoficiāli iespējams izmantot arī _C_ un _C++_.
-
-*Godot* arhitektūra ir komplicēta, objektorientēta sistēma. Mezgli nav vienīgā dziņa īpatnība, taču padziļināts apraksts kalpotu tikai nesaprašanu veidošanai.
+- *Godot* arhitektūra ir komplicēta, objektorientēta sistēma.
+- Galvenā īpašība, ar ko _Godot_ atšķirās no citiem dziņiem, ir **mezgli**.
+![Pasted image 20260922174837.png](/img/user/Attachments/Pasted%20image%2020260922174837.png)
 ### Mezgli
-
-![Pasted image 20260922145834.png](/img/user/Attachments/Pasted%20image%2020260922145834.png)
-
-![Pasted image 20260922145825.png](/img/user/Attachments/Pasted%20image%2020260922145825.png)
+#### Definīcija
+- "Mezgli" (_Nodes_) ir galvenais būvmateriāls _Godot_ struktūrā. Tiem piemīt nosaukums un rediģējamas īpašības, un tie manto dažādus iebūvētus _Godot_ tipus, piemēram, objektus. Katram mezglam ir sava konkrēta funkcija, piemēram, parādīt attēlu, atskaņot skaņu, kalpot kā kamera, u.c.
+#### Apakšelementi
+- Mezgliem var būt "bērni" (_children_), turpmāk – _apakšelementi_ mezglu hierarhijā. 
+#### Ainas
+- Mezglu koku (node tree) hierarhiju sauc par "ainu" (_scene_), to iespējams saglabāt un izsaukt atkārtotai lietojamībai. 
+#### Skripti
+- Mezglam var arī pievienot "skriptu" (_script_), kas ir programmējams, lai paplašinātu tā funkcionalitāti. Skripti ir programmējami galvenokārt _C#_ un _GDScript_ valodās, bet neoficiāli iespējams izmantot arī _C_ un _C++_.
 ## Programmēšanas valodas
 Pulciņā izmantosim _GDScript_ – valodu, kas ir unikāla _Godot_ dzinim. Tā ir objektorientēta un imperatīva (programmā tiek tieši norādīts vēlamā rezultāta iegūšanas veids, bet netiek norādītas tā īpašības) valoda veidota spēļu izstrādei un vizuāli izskatās kā _Python_.
 ## Lejupielāde
