@@ -2,5 +2,13 @@
 {"dg-publish":true,"permalink":"/notes/pulcina-nodarbibas/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana]]"],"tags":["note"],"created":"2026-09-14","aliases":["Pulciņa nodarbības","nodarbības","lekcijas","pulciņa lekcijas"],"cssclasses":null}}
 ---
 
+[[Notes/Datorspēļu dizains un programmēšana\|Atpakaļ]]
+
 ---
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>File</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Created</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Notes/1. Pulciņa nodarbība.md" data-href="Notes/1. Pulciņa nodarbība.md" href="Notes/1. Pulciņa nodarbība.md" class="internal-link" target="_blank" rel="noopener nofollow">1. Pulciņa nodarbība</a></span></td><td><span>14.09.2026</span></td></tr></tbody></table></div>
+| Nodarbība                                               | Datums     |
+| ------------------------------------------------------- | ---------- |
+| [[Notes/1. Pulciņa nodarbība\|1. Pulciņa nodarbība]] | 17.09.2026 |
+| [[Notes/2. Pulciņa nodarbība\|2. Pulciņa nodarbība]] | 22.09.2026 |
+
+{ .block-language-dataview}
+

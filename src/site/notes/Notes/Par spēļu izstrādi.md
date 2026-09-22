@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/par-spelu-izstradi/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null}}
 ---
 
+[[Notes/1. Pulciņa nodarbība\|Atpakaļ]]
+
 ---
 # Māksla + zinātne = spēļu izstrāde
 ## Kāpēc veidot datorspēles?
@@ -41,9 +43,11 @@ Tā ir nemitīga **problēmu risināšana**.
 - **Psihologs:** 
   Tev jāsaprot cilvēka prāts - kas spēlētājam sagādā prieku, kā viņu apbalvot par pūlēm un kā sabalansēt spēles grūtību/sarežģītību, tā lai būtu izaicinoši, bet ne kaitinoši vai pārmērīgi sodoši.
 
-- **Mārketinga speciālists:** Spēle pati sevi nepārdos. Tev jāveido piesaistoši treileri un ekrānuzņēmumi, jākomunicē ar spēlētāju kopienu _Discord_ vai sociālajos tīklos un jāizdomā stratēģija, kā tavai spēlei izcelties _Steam_ vai _Itch.io_ platformās starp tūkstošiem citu.
+- **Mārketinga speciālists:** 
+  Spēle pati sevi nepārdos. Tev jāveido piesaistoši treileri un ekrānuzņēmumi, jākomunicē ar spēlētāju kopienu _Discord_ vai sociālajos tīklos un jāizdomā stratēģija, kā tavai spēlei izcelties _Steam_ vai _Itch.io_ platformās starp tūkstošiem citu.
 
-- Protams, arī **Programmētājs:** Tu pārvērt vizuālās un dizaina idejas reālā, strādājošā produktā. Veidojot spēles, tu praktiski (nevis sausā teorijā) apgūsti galvenās programmēšanas prasmes, kā piemēram:
+- Protams, arī **Programmētājs:** 
+  Tu pārvērt vizuālās un dizaina idejas reālā, strādājošā produktā. Veidojot spēles, tu praktiski (nevis sausā teorijā) apgūsti galvenās programmēšanas prasmes, kā piemēram:
 	- **Datu tipus (_Data types_):** Kā pareizi glabāt spēlētāja vārdu (teksts), dzīvības punktus (vesels skaitlis) vai pārvietošanās ātrumu (daļskaitlis).
 	- **Objektorientēto programmēšanu (OOP):** Tu saproti klases un objektus. Piemēram, tu uzraksti vienu "Ienaidnieka" klasi ar tās uzvedību, un tad spēlē ģenerē simtiem unikālu ienaidnieku, mantojot šīs īpašības.
 	- **Atmiņas pārvaldību un optimizāciju:** Kad tava spēle nestrādā dēļ _Out of Memory_ (OOM) kļūdas, tu ātri iemācies, kāpēc nedrīkst ielādēt 4K tekstūras vai radīt jaunus objektus katrā datora kadrā, bet gan, ka tie ir jāpārstrādā (_Object pooling_).
@@ -54,7 +58,7 @@ Spēļu industrija šobrīd ir lielāka, nekā filmu un mūzikas industrijas kop
 - **Spēļu industrijas aptuvenā vērtība gadā:** $$ $184,000,000,000$$
 - **Filmu Industrijas aptuvenā vērtība gadā:** $$ $34,000,000,000$$
 - **Mūzikas industrijas aptuvenā vērtība gadā:** $$ $28,000,000,000$$
-Tas var sākties kā interesants hobijs, bet pāraugt ienesīgā amatā lielā uzņēmumā (*AAA*) vai pat personīgajā biznesā, veidojot neatkarīgās (_indie_) spēles.
+Tas var sākties kā interesants hobijs, bet pāraugt ienesīgā amatā lielā uzņēmumā (*[[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|AAA]]*) vai pat personīgajā biznesā, veidojot neatkarīgās (_indie_) spēles.
 Pateicoties jaudīgiem un bezmaksas rīkiem (*Godot* būdams viens no tiem), šobrīd ir **visu laiku labākais brīdis** neatkarīgo (_indie_) spēļu izstrādei, taču vienlaikus ir arī **grūtāk, kā jebkad** tikt pamanītam un gūt peļņu.
 
 **Priekšrocības: izstrāde un rīki**
@@ -73,7 +77,7 @@ Pateicoties jaudīgiem un bezmaksas rīkiem (*Godot* būdams viens no tiem), šo
 
 - **Finansiālais risks:** finansiāli panākumi joprojām ir retums, un, uztverot _indie_ spēļu izstrādi kā vieglu naudas avotu, nāksies vilties. 
 
-Tomēr, neatkarīgiem izstrādātājiem ir viena galvenā priekšrocība pār *AAA* izstrādātājiem - **izmaksas ir mikroskopiskas**, salīdzinot ar uzņēmumiem, kas sadarbojas ar izdevējiem un uztur tūkstošiem kvalificētus cilvēkus.
+Tomēr, neatkarīgiem izstrādātājiem ir viena galvenā priekšrocība pār *[[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|AAA]]* izstrādātājiem - **izmaksas ir mikroskopiskas**, salīdzinot ar uzņēmumiem, kas sadarbojas ar izdevējiem un uztur tūkstošiem kvalificētus cilvēkus.
 Izveidojot spēli, kas neredz dienasgaismu, nekas īsti netiek zaudēts (vismaz 100 eiro, jo tik izmaksā publicējot spēli *Steam*). 
 Un, ja tā tomēr redz dienasgaismu, Latvijas ekonomikā nopelnītā nauda ir daudz.
 
@@ -82,10 +86,18 @@ Publicējot spēli, vispirms izveido savu auditoriju un uzkrāj ievērojamu *Ste
 #### Tērētu laiku
 Spēļu izstrāde aizņem ārkārtīgi ilgu laiku. 
 ##### Laika formula
-Lai izvērtētu projekta tvērumu, noder sekojošā formula: $$(T_{plānotais} \times 2) \xrightarrow{\text{Nākamā mērvienība}}T_{reālais}$$
-Ja uzsākot projektu, šķiet ka tas aizņems **2 nedēļas**: $$T_{plānotais} = 2ned$$
-Tad patiesībā, izmantojot formulu: $$(2ned \times 2) \xrightarrow{\text{Nākamā mērvienība}} 4mēn$$
-Redzam, ka projekta izstrāde patiesībā aizņems **4 mēnešus** $$2ned \xrightarrow{\text{formula}} 4mēn$$
+Lai izvērtētu projekta tvērumu, noder sekojošā formula: 
+$$(T_{plānotais} \times 2) \xrightarrow{\style{font-family: 'Times New Roman', serif;}{\text{Nākamā mērvienība}}}T_{reālais}$$
+
+Ja uzsākot projektu, šķiet ka tas aizņems **2 nedēļas**: 
+$$T_{plānotais} = 2ned$$
+
+Tad patiesībā, izmantojot formulu:
+$$(2ned \times 2) \xrightarrow{\style{font-family: 'Times New Roman', serif;}{\text{Nākamā mērvienība}}} 4mēn$$
+
+Redzam, ka projekta izstrāde patiesībā aizņems **4 mēnešus** 
+$$2ned \xrightarrow{\text{formula}} 4mēn$$
+
 ##### Projekta plānošana
 Lielā laika mēroga dēļ, projekta plānošanas prasmes ir ļoti noderīgas. Izstrādājot datorspēles, iemācīsies:
 - Noteikt sasniedzamu projekta tvērumu
@@ -109,7 +121,7 @@ Cerams, ka šis pulciņš spēs radīt to sajūtu kādā citā.
 ##### 2. Vai gribi lai tava spēle izceļās un gūst popularitāti?
 ##### 3. Vai vēlies veidot savu sapņu spēli vai mazus projektus? Ar ko tu sāktu?
 ##### 4. No kurām spēļu izstrādes daļām (piem. skaņas efekti, 3D modelēšana) noteikti gribi izvairīties?
-##### 5. Vai labāk gribi būt *AAA* vai *indie* izstrādātājs?
+##### 5. Vai labāk gribi būt *[[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|AAA]]* vai *indie* izstrādātājs?
 ## Kāpēc spēlēt datorspēles?
 ### **Uzdevums:** Atlasi galvenās īpašības:
 #### 1. Izvēlies 1 spēli
@@ -146,9 +158,11 @@ Spēļu mehānikas bieži tiek mantotas un "nošpikotas", taču, bieži vien, š
 
 
 
+# Materiāls
 <iframe src="/img/user/Attachments/MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" width="100%" height="900px" title="MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" style="border:1px solid #ccc;"></iframe>
 
 # MDA (Mechanics-Dynamics-Aesthetics)
+## Definīcija
 **MDA** ir spēļu dizaina un analīzes ietvars, kas sadala spēli trīs savstarpēji saistītos slāņos, lai izskaidrotu, kā spēles noteikumi ietekmē spēlētāja pieredzi.
 Ietvaru 2004. gadā publicēja Robins Hunike (*Robin Hunicke*), Marks Leblāns (*Marc LeBlanc*) un Roberts Zubeks (*Robert Zubek*)
 
@@ -181,6 +195,7 @@ MDA ietvars definē astoņas spēlētāju **baudījuma** kategorijas, aizstājot
 - **Pašizpausme (Expression):** Radošums un individuālais stils.
 - **Pakļaušanās (Submission):** Hobijs, rutīna vai relaksācija.
 
+
 </div></div>
 
 
@@ -198,6 +213,7 @@ Kad gribi kautko pievienot, jautā:
 
 
 ---
+# Video materiāls
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/clippings/andrew-chambers-you-re-making-game-development-too-hard/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -233,9 +249,11 @@ Kad gribi kautko pievienot, jautā:
 
 
 ---
+# Definīcija
 **Core Loop** jeb **Core Gameplay Loop** jeb **Pamata Cikls** ir spēles bāze.
 Tas ir baudāmu darību cikls, kuru spēlētājs atkārtoti pilda, to var darīt atkal un atkal ar nelielām variācijām, **nenogurstot**. Tajā parasti ietilpst visas spēles mehānikas, vai to pildot spēlētājam ir pieejamas visas spēles mehānikas. 
-**MMORPG** gadījumā, tas būtu: 
+# Piemērs
+**MMORPG** gadījumā, tas būtu:
 - Izpildīt misiju
 - Iegūt atlīdzību
 - Iegūt jaunas spējas / uzlabot savu tēlu
@@ -246,4 +264,10 @@ Tas ir baudāmu darību cikls, kuru spēlētājs atkārtoti pilda, to var darīt
 Parasti, ciklā ir kāda sarežģīta darbība, atalgojums par to, kuru iztērējot, iegūstam mazu variāciju atkal pildot darbību un turpinot ciklu. 
 
 </div></div>
+
+
+
+### Analizē iepriekš izvēlēto spēli
+#### Izveido tās **Core Loop**
+#### Izvēlies vieno no tās mehānikām un apraksti tās **MDA framework**
 

@@ -4,3 +4,4 @@
 
 <iframe src="/img/user/Attachments/apraksts.pdf" width="100%" height="900px" title="apraksts.pdf" style="border:1px solid #ccc;"></iframe>
 
+

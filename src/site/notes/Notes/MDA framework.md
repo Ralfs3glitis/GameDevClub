@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mda-framework/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null,"source":"https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research"}}
+{"dg-publish":true,"permalink":"/notes/mda-framework/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana|Pulciņš]]"],"section":"[[Notes/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null,"source":"https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research"}}
 ---
 
+# Materiāls
 <iframe src="/img/user/Attachments/MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" width="100%" height="900px" title="MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" style="border:1px solid #ccc;"></iframe>
 
 # MDA (Mechanics-Dynamics-Aesthetics)
+## Definīcija
 **MDA** ir spēļu dizaina un analīzes ietvars, kas sadala spēli trīs savstarpēji saistītos slāņos, lai izskaidrotu, kā spēles noteikumi ietekmē spēlētāja pieredzi.
 Ietvaru 2004. gadā publicēja Robins Hunike (*Robin Hunicke*), Marks Leblāns (*Marc LeBlanc*) un Roberts Zubeks (*Robert Zubek*)
 
