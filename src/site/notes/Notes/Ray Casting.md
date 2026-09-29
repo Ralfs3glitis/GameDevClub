@@ -14,7 +14,7 @@ Tas ir kā **lāzeris ar iebūvētu tālmēru**: stars lido **taisni**, līdz at
 Tāpat, kā fizikas objektiem, stariem iespējams norādīt [[Notes/Collisions, layers and masks#Maska (Mask)\|sadursmes maskas]]. 
 Stari redz tikai pirmo objektu, ar kuru notiek sadursme, tāpēc, ja izmantojam staru raidīšanu lai **noteiktu vai pretinieks redz spēlētāju**, tā maskās nepieciešams **norādīt spēlētāju**, un **izlaist pretinieku** (stara avotu), lai tas nesaskartos tikai ar savu sadursmes formu.
   <div style="padding: 10px; border-radius: 8px; text-align: center;">
-    <img src="https://docs.godotengine.org/en/stable/_images/raycast_falsepositive.webp" style="width: 40%; border-radius: 4px;">
+    <img src="https://docs.godotengine.org/en/stable/_images/raycast_falsepositive.webp" style="border-radius: 4px;">
   </div>
 ## Pielietojums
 ### 1. Tūlītēja trāpījuma šaušana šūteru spēlēs
@@ -29,7 +29,7 @@ Stari redz tikai pirmo objektu, ar kuru notiek sadursme, tāpēc, ja izmantojam 
 <a href="https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html">
   <div style="border: 1px solid var(--background-modifier-border); padding: 10px; border-radius: 8px; text-align: center;">
     <strong style="display: block; margin-bottom: 8px;">Vektoru interpolācija</strong>
-    <img src="https://docs.godotengine.org/en/stable/_images/interpolation_vector.gif" style="width: 100%; border-radius: 4px;">
+    <img src="https://docs.godotengine.org/en/stable/_images/interpolation_vector.gif" style="border-radius: 4px;">
   </div>
 </a>
 
@@ -77,6 +77,6 @@ Kā dators var zināt, kurš 3D pasaules punkts atbilst peles klikšķim uz 2D m
     - Ja stars netrāpa nekam (noklikšķināts piem. ārpus kartes), spēle klikšķi ignorē.
 
 <div style="padding: 10px; border-radius: 8px; text-align: center;">
-    <img src="https://docs.godotengine.org/en/stable/_images/raycast_projection.png" style="width: 100%; border-radius: 4px;">
+    <img src="https://docs.godotengine.org/en/stable/_images/raycast_projection.png" style="border-radius: 4px;">
   </div>
 ## [Staru raidīšana Godot](https://docs.godotengine.org/en/stable/tutorials/physics/ray-casting.html)

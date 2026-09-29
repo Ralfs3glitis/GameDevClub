@@ -32,6 +32,6 @@ Visbiežāk izmantotais veids, kā piešķirt formu, ir pievienot [CollisionShap
 > **Svarīgi** 
 > Esiet uzmanīgi un redaktorā nekad nemainiet *Scale* atribūtu sadursmes formās. Īpašībai *Scale* panelī inspektorā ir jābūt (1, 1). Mainot sadursmes formas izmēru, vienmēr ir jāizmanto "size handles". *Scale* atribūta mainīšana var izraisīt neparedzamu sadursmju uzvedību.
 
-| <img src="https://docs.godotengine.org/en/stable/_images/player_coll_shape.webp" style="width: 100%; border-radius: 4px;"> | ![Inspektora col_shape yes and no.png\|444](/img/user/Attachments/Inspektora%20col_shape%20yes%20and%20no.png) |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| <img src="https://docs.godotengine.org/en/stable/_images/player_coll_shape.webp" style="border-radius: 4px;"> | ![Inspektora col_shape yes and no.png\|444](/img/user/Attachments/Inspektora%20col_shape%20yes%20and%20no.png) |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 
