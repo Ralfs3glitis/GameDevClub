@@ -13,9 +13,8 @@ Tas ir kā **lāzeris ar iebūvētu tālmēru**: stars lido **taisni**, līdz at
 ## Maskas
 Tāpat, kā fizikas objektiem, stariem iespējams norādīt [[Notes/Collisions, layers and masks#Maska (Mask)\|sadursmes maskas]]. 
 Stari redz tikai pirmo objektu, ar kuru notiek sadursme, tāpēc, ja izmantojam staru raidīšanu lai **noteiktu vai pretinieks redz spēlētāju**, tā maskās nepieciešams **norādīt spēlētāju**, un **izlaist pretinieku** (stara avotu), lai tas nesaskartos tikai ar savu sadursmes formu.
-  <div style="padding: 10px; border-radius: 8px; text-align: center;">
-    <img src="https://docs.godotengine.org/en/stable/_images/raycast_falsepositive.webp" style="border-radius: 4px;">
-  </div>
+<img src="https://docs.godotengine.org/en/stable/_images/raycast_falsepositive.webp" style="border-radius: 4px;">
+
 ## Pielietojums
 ### 1. Tūlītēja trāpījuma šaušana šūteru spēlēs
 [[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|FPS (First-Person Shooter)]] un 2D top-down šūteros (piemēram, _Hotline Miami_):
@@ -25,13 +24,9 @@ Stari redz tikai pirmo objektu, ar kuru notiek sadursme, tāpēc, ja izmantojam 
 
 
 #### Tūlītēja trāpījuma šaušana
-- **Tūlītēja trāpījuma** kategorijas ieroči neveido reālu šāviņu, tiek [[Notes/Ray Casting\|raidīts taisns stars]], ar kuru uzreiz iespējams noteikt sadursmi, tās pozīciju, ietekmēto objektu un citas nepieciešamās īpašības. Pēc tam, lai vizuāli **izskatītos**, ka ierocis veido šāviņu, [lineāri interpolējam](https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html) tā vizuālās daļas pozīciju no ieroča līdz sadursmes vietai.
-<a href="https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html">
-  <div style="border: 1px solid var(--background-modifier-border); padding: 10px; border-radius: 8px; text-align: center;">
-    <strong style="display: block; margin-bottom: 8px;">Vektoru interpolācija</strong>
-    <img src="https://docs.godotengine.org/en/stable/_images/interpolation_vector.gif" style="border-radius: 4px;">
-  </div>
-</a>
+- **Tūlītēja trāpījuma** kategorijas ieroči neveido reālu šāviņu, tiek [[Notes/Ray Casting\|raidīts taisns stars]], ar kuru uzreiz iespējams noteikt sadursmi, tās pozīciju, ietekmēto objektu un citas nepieciešamās īpašības. Pēc tam, lai vizuāli **izskatītos**, ka ierocis veido šāviņu, [lineāri interpolējam](https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html) tā vizuālās daļas pozīciju no ieroča līdz sadursmes vietai. 
+<img src="https://docs.godotengine.org/en/stable/_images/interpolation_vector.gif" style="border-radius: 4px;">
+
 
 </div></div>
 
@@ -76,7 +71,6 @@ Kā dators var zināt, kurš 3D pasaules punkts atbilst peles klikšķim uz 2D m
     - Ja noklikšķināts uz ienaidnieka, tēls sāk uzbrukumu.
     - Ja stars netrāpa nekam (noklikšķināts piem. ārpus kartes), spēle klikšķi ignorē.
 
-<div style="padding: 10px; border-radius: 8px; text-align: center;">
-    <img src="https://docs.godotengine.org/en/stable/_images/raycast_projection.png" style="border-radius: 4px;">
-  </div>
+<img src="https://docs.godotengine.org/en/stable/_images/raycast_projection.png" style="border-radius: 4px;">
+
 ## [Staru raidīšana Godot](https://docs.godotengine.org/en/stable/tutorials/physics/ray-casting.html)
