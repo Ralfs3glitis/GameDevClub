@@ -1,0 +1,105 @@
+---
+{"dg-publish":true,"permalink":"/canvas/fizikas-ietekmetas-monetas.canvas/","contentClasses":"canvas-page","tags":["note","canvas"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/4. Pulciņa nodarbība]]","tags":["note","canvas"],"created":"2026-10-05T08:48","cssclasses":[],"references":null}}
+---
+
+<div id="Fizikas_ietekmētas_monētascanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Fizikas_ietekmētas_monētascanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Fizikas_ietekmētas_monētascanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-fb464c" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="#fb464c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-fb464c-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="#fb464c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -1030 -880 C -1030 -722.2153366134719, -1370 -837.7846633865281, -1370 -680" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="23c5b243518ed95e"  marker-end="url(#arrow-fb464c)" />
+<path d="M -1030 -880 C -1030 -722.2153366134719, -690 -837.7846633865281, -690 -680" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="f751ebd81cc537a8"  marker-end="url(#arrow-fb464c)" />
+<path d="M -690 -940 C -479.78106650446534 -940, -410.21893349553466 -1130, -200 -1130" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="6ebda6749d23ff34"  marker-end="url(#arrow-fb464c)" />
+<path d="M -1370 -940 C -1604.0939982143925 -940, -1685.9060017856075 -1140, -1920 -1140" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="583a381d0a8ef00d"  marker-end="url(#arrow-fb464c)" />
+<path d="M 100 -964 C 100 -914, 100 -970, 100 -920" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="3c2a9c94c041a487"  marker-end="url(#arrow-fb464c)" />
+<path d="M 320 -1322 C 370 -1322, 310 -1400, 360 -1400" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="ebf1eefaed8d068b"  marker-end="url(#arrow-fb464c)" />
+<path d="M 360 -800 C 298.942649910105 -800, 341.057350089895 -670, 280 -670" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="aae6c5dab5b821b0"  marker-end="url(#arrow-fb464c)" />
+		</svg>
+		<div class="canvas-node canvas-node-group has-color" data-node-id="31ef573a9c046835" style="transform: translate(-200px, -1820px); width: 1480px; height: 1380px; --canvas-color: #a882ff; ">
+	<div class="canvas-node-label">Inspektors</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="61099f876d0a2ae7" style="transform: translate(-1680px, -1080px); width: 1320px; height: 640px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">Mezglu arhitektūra</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="0dea097a423ac317" style="transform: translate(-1370px, -1000px); width: 680px; height: 120px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBwaHlzaWNzY29pbiA6IFJpZ2lkQm9keTJE"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="c76f689091ddf6b3" style="transform: translate(-950px, -680px); width: 520px; height: 160px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="981328f54f8f759a" style="transform: translate(-1640px, -680px); width: 540px; height: 160px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBBbmltYXRlZFNwcml0ZTJEIDogQW5pbWF0ZWRTcHJpdGUyRA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="e299ed28856a4176" style="transform: translate(-160px, -760px); width: 440px; height: 180px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="U2F2aWVubyBgaW5wdXRfZXZlbnRgIHNpZ27EgWx1IGFyIHNrcmlwdGEgYF9vbl9pbnB1dF9ldmVudCgpYCBmdW5rY2lqdSE="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="bb563d2af646761d" style="transform: translate(-80px, -920px); width: 360px; height: 80px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="YElucHV0ID0+IHBpY2thYmxlID0gVHJ1ZWA="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="9ad032e2ff2c6912" style="transform: translate(360px, -1440px); width: 570px; height: 80px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="YFBoeXNpY3MgTWF0ZXJpYWwgT3ZlcnJpZGUgPT4gQm91bmNlID0gMS4wYA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="299f45656d48f931" style="transform: translate(-120px, -1680px); width: 440px; height: 716px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261005085600.png" alt="Pasted image 20261005085600.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="7f49603a970a39ee" style="transform: translate(-3520px, -1840px); width: 1600px; height: 1400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTa3JpcHRzCmBgYApleHRlbmRzIFJpZ2lkQm9keTJECkBleHBvcnQgdmFyIHNwZWVkIDogZmxvYXQgPSAxMAp2YXIgaXNfZHJhZ2dpbmc6IGJvb2wgPSBmYWxzZQpAb25yZWFkeSB2YXIgcGh5c2ljc2NvaW46IFJpZ2lkQm9keTJEID0gJCIuIgoKZnVuYyBfb25faW5wdXRfZXZlbnQodmlld3BvcnQ6IE5vZGUsIGV2ZW50OiBJbnB1dEV2ZW50LCBzaGFwZV9pZHg6IGludCkgLT4gdm9pZDoKCWlmIGV2ZW50LmlzX2FjdGlvbl9wcmVzc2VkKCJsZWZ0X2NsaWNrIik6CgkJaXNfZHJhZ2dpbmcgPSB0cnVlCgpmdW5jIF9pbnB1dChldmVudDogSW5wdXRFdmVudCkgLT4gdm9pZDoKCWlmIGV2ZW50LmlzX2FjdGlvbl9yZWxlYXNlZCgibGVmdF9jbGljayIpOgoJCWlzX2RyYWdnaW5nID0gZmFsc2UKCmZ1bmMgX3Byb2Nlc3MoZGVsdGE6IGZsb2F0KSAtPiB2b2lkOgoJaWYgaXNfZHJhZ2dpbmc6CgkJI3ZhciBkaXJlY3Rpb24gPSBnbG9iYWxfcG9zaXRpb24uZGlyZWN0aW9uX3RvKGdldF9nbG9iYWxfbW91c2VfcG9zaXRpb24oKSkKCQl2YXIgZGlzdGFuY2UgPSBnZXRfZ2xvYmFsX21vdXNlX3Bvc2l0aW9uKCkgLSBnbG9iYWxfcG9zaXRpb24KCQkjYXBwbHlfY2VudHJhbF9pbXB1bHNlKGRpc3RhbmNlKQoJCXBoeXNpY3Njb2luLmxpbmVhcl92ZWxvY2l0eSA9IGRpc3RhbmNlICogc3BlZWQKYGBg"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="2a123c9e1f630fa0" style="transform: translate(360px, -1068px); width: 866px; height: 536px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261005090018.png" alt="Pasted image 20261005090018.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+	</div>
+</div>
