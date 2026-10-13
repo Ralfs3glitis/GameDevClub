@@ -73,13 +73,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="9ad032e2ff2c6912" style="transform: translate(360px, -1440px); width: 570px; height: 80px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="YFBoeXNpY3MgTWF0ZXJpYWwgT3ZlcnJpZGUgPT4gQm91bmNlID0gMS4wYA=="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="299f45656d48f931" style="transform: translate(-120px, -1680px); width: 440px; height: 716px; --canvas-color: #a882ff;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
@@ -91,6 +84,13 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyBTa3JpcHRzCmBgYApleHRlbmRzIFJpZ2lkQm9keTJECkBleHBvcnQgdmFyIHNwZWVkIDogZmxvYXQgPSAxMAp2YXIgaXNfZHJhZ2dpbmc6IGJvb2wgPSBmYWxzZQpAb25yZWFkeSB2YXIgcGh5c2ljc2NvaW46IFJpZ2lkQm9keTJEID0gJCIuIgoKZnVuYyBfb25faW5wdXRfZXZlbnQodmlld3BvcnQ6IE5vZGUsIGV2ZW50OiBJbnB1dEV2ZW50LCBzaGFwZV9pZHg6IGludCkgLT4gdm9pZDoKCWlmIGV2ZW50LmlzX2FjdGlvbl9wcmVzc2VkKCJsZWZ0X2NsaWNrIik6CgkJaXNfZHJhZ2dpbmcgPSB0cnVlCgpmdW5jIF9pbnB1dChldmVudDogSW5wdXRFdmVudCkgLT4gdm9pZDoKCWlmIGV2ZW50LmlzX2FjdGlvbl9yZWxlYXNlZCgibGVmdF9jbGljayIpOgoJCWlzX2RyYWdnaW5nID0gZmFsc2UKCmZ1bmMgX3Byb2Nlc3MoZGVsdGE6IGZsb2F0KSAtPiB2b2lkOgoJaWYgaXNfZHJhZ2dpbmc6CgkJI3ZhciBkaXJlY3Rpb24gPSBnbG9iYWxfcG9zaXRpb24uZGlyZWN0aW9uX3RvKGdldF9nbG9iYWxfbW91c2VfcG9zaXRpb24oKSkKCQl2YXIgZGlzdGFuY2UgPSBnZXRfZ2xvYmFsX21vdXNlX3Bvc2l0aW9uKCkgLSBnbG9iYWxfcG9zaXRpb24KCQkjYXBwbHlfY2VudHJhbF9pbXB1bHNlKGRpc3RhbmNlKQoJCXBoeXNpY3Njb2luLmxpbmVhcl92ZWxvY2l0eSA9IGRpc3RhbmNlICogc3BlZWQKYGBg"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="9ad032e2ff2c6912" style="transform: translate(360px, -1440px); width: 570px; height: 80px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="YFBoeXNpY3MgTWF0ZXJpYWwgT3ZlcnJpZGUgPT4gQm91bmNlID0gMS4wYA=="></div>
 		</div>
 	</div>
 </div>

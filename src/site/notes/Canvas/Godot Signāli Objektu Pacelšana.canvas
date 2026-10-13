@@ -115,24 +115,17 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="2a3c9616a11f2bbb" style="transform: translate(-4205px, -175px); width: 540px; height: 303px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006162521.png" alt="Pasted image 20261006162521.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="2ca0797ec44c4abf" style="transform: translate(-3560px, -112px); width: 400px; height: 210px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006163416.png" alt="Pasted image 20261006163416.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="1604f9dfe879875b" style="transform: translate(717px, -1740px); width: 720px; height: 360px; --canvas-color: #fb464c;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="21e5d0ff8b2b7ec3" style="transform: translate(3280px, 1340px); width: 1000px; height: 1080px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBJemtsxIFzdHMKVGFnYWQgdmFyYW0gcGFjZWx0IG9iamVrdHVzIGl6bWFudG9qb3QgcGVsaSwgdGHEjXUsIGvEgSBtxJNzIHBhdmVpa3R1LCBrYSBtxatzdSB0xJNscyB0byB2YXIgaXpkYXLEq3Q/"></div>
+			<div class="canvas-node-text-content" data-markdown="IyBGdW5rY2lqYXMKYGBgCmZ1bmMgcGlja191cF9jb2lucygpIC0+IHZvaWQ6Cglmb3IgY29pbiBpbiBpbl9yYW5nZV9jb2luX2FycmF5LmR1cGxpY2F0ZSgpOgoJCWNvaW4ucGlja2VkX3VwKHBsYXllcikKCQlwaWNrZWRfdXBfY29pbl9hcnJheS5hcHBlbmQoY29pbikKCWluX3JhbmdlX2NvaW5fYXJyYXkuY2xlYXIoKQoJCQoJZm9yIGNvaW4gaW4gaW5fcmFuZ2VfY29pbl9hcnJheToKCQljb2luLnBpY2tlZF91cChwbGF5ZXIpCgkJcGlja2VkX3VwX2NvaW5fYXJyYXkuYXBwZW5kKGNvaW4pCgkJaW5fcmFuZ2VfY29pbl9hcnJheS5lcmFzZShjb2luKQoKZnVuYyBfb25fcGlja3VwX2RldGVjdGlvbl96b25lX2JvZHlfZW50ZXJlZChib2R5OiBOb2RlMkQpIC0+IHZvaWQ6CglpZiBib2R5IGlzIFBoeXNpY3NDb2luIGFuZCAhcGlja2VkX3VwX2NvaW5fYXJyYXkuaGFzKGJvZHkpOgoJCWNvaW5faW5fcmFuZ2UoYm9keSkKCQkKZnVuYyBjb2luX2luX3JhbmdlKGNvaW4gOiBQaHlzaWNzQ29pbikgLT4gdm9pZDoKCWluX3JhbmdlX2NvaW5fYXJyYXkuYXBwZW5kKGNvaW4pCgljb2luLnNob3dfcGlja3VwX3Byb21wdCgpCgpmdW5jIF9vbl9waWNrdXBfZGV0ZWN0aW9uX3pvbmVfYm9keV9leGl0ZWQoYm9keTogTm9kZTJEKSAtPiB2b2lkOgoJaWYgYm9keSBpcyBQaHlzaWNzQ29pbiBhbmQgIXBpY2tlZF91cF9jb2luX2FycmF5Lmhhcyhib2R5KToKCQljb2luX291dF9vZl9yYW5nZShib2R5KQoJCQpmdW5jIGNvaW5fb3V0X29mX3JhbmdlKGNvaW4gOiBQaHlzaWNzQ29pbikgLT4gdm9pZDoKCWluX3JhbmdlX2NvaW5fYXJyYXkuZXJhc2UoY29pbikKCWNvaW4uaGlkZV9waWNrdXBfcHJvbXB0KCkKYGBg"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="c9a1d21cdefbbeb8" style="transform: translate(3280px, 2455px); width: 1000px; height: 200px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyB6ZW0gYGZ1bmMgX3BoeXNpY3NfcHJvY2VzcyhkZWx0YSlgCgpwaWV2aWVub2phbToKYGlmIElucHV0LmlzX2FjdGlvbl9qdXN0X3ByZXNzZWQoIkludGVyYWN0Iik6CglwaWNrX3VwX2NvaW5zKClg"></div>
 		</div>
 	</div>
 </div>
@@ -140,34 +133,6 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/Attachments/Pasted%20image%2020261006150603.png" alt="Pasted image 20261006150603.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="b2738960284060ea" style="transform: translate(-3490px, -359px); width: 260px; height: 120px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBTcMSTbMSTdMSBanM="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="0e7fa9f31b5569f5" style="transform: translate(-2839px, -265px); width: 530px; height: 180px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBTcMSTbMSTdMSBamEgUGlja3VwRGV0ZWN0aW9uWm9uZQ=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="42143613c5e14a77" style="transform: translate(-2920px, 162px); width: 399px; height: 214px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006163402.png" alt="Pasted image 20261006163402.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="26666454dd975dad" style="transform: translate(-4105px, 375px); width: 530px; height: 180px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBHYW1lTWFuYWdlciBBcmVhMkQ="></div>
 		</div>
 	</div>
 </div>
@@ -185,27 +150,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="6163921734a12e8b" style="transform: translate(-3430px, 255px); width: 400px; height: 241px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006163538.png" alt="Pasted image 20261006163538.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="71e76a5c178bfa2b" style="transform: translate(-3780px, 1412px); width: 400px; height: 167px; --canvas-color: #1498dc;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006145151.png" alt="Pasted image 20261006145151.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="486b6104e3033971" style="transform: translate(-2839px, 1135px); width: 980px; height: 720px; --canvas-color: #1498dc;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBTa3JpcHRzCmBgYApleHRlbmRzIE5vZGUKCkBvbnJlYWR5IHZhciBzY29yZV9sYWJlbCA9ICRTY29yZUxhYmVsCgp2YXIgc2NvcmUgOiBpbnQgPSAwOgoJc2V0KHZhbHVlKToKCQlzY29yZSA9IHZhbHVlCgkJc2NvcmVfbGFiZWwudGV4dCA9ICJZb3UgY29sbGVjdGVkICIgKyBzdHIoc2NvcmUpICsgIiBjb2lucy4iCgkJCmZ1bmMgX29uX2FyZWFfMmRfYm9keV9lbnRlcmVkKGJvZHk6IE5vZGUyRCkgLT4gdm9pZDoKCWlmIGJvZHkgaXMgUGh5c2ljc0NvaW46CgkJc2NvcmUgKz0gYm9keS52YWx1ZQoKZnVuYyBfb25fYXJlYV8yZF9ib2R5X2V4aXRlZChib2R5OiBOb2RlMkQpIC0+IHZvaWQ6CglpZiBib2R5IGlzIFBoeXNpY3NDb2luOgoJCXNjb3JlIC09IGJvZHkudmFsdWUKYGBg"></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1915f1e931c276e4" style="transform: translate(-669px, -1040px); width: 529px; height: 280px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
@@ -213,24 +157,10 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="054a67ebf065772a" style="transform: translate(-4060px, 2083px); width: 480px; height: 260px; --canvas-color: #1498dc;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="1947d81e0eab4cbc" style="transform: translate(-924px, -500px); width: 520px; height: 272px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBTY29yZUxhYmVsIDogTGFiZWwKPiBUZWtzdHMtIHV6csSBZMSrcyBjaWsgbW9uxJN0YXMgaXIgc2F2xIFrdGFz"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="23817674f4a931eb" style="transform: translate(-1240px, 180px); width: 480px; height: 260px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBBbmltYXRlZFNwcml0ZTJEIDogQW5pbWF0ZWRTcHJpdGUyRAo+IFTEk2xhIGl6c2thdGEgdW4gYW5pbcSBY2lqdSBrb21wb25lbnRz"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="89d5258af02aca54" style="transform: translate(-140px, 180px); width: 580px; height: 260px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBQaWNrdXBEZXRlY3Rpb25ab25lIDogQXJlYTJECj4gTWV6Z2xzLCBrdXLFoSBwYWRvcyB6acWGdSwgamEgb2JqZWt0cyBpciBpZWvEgXBpcyB0xIEgc2FkdXJzbWVzIGZvcm3EgQ=="></div>
+			<div class="canvas-node-text-content" data-markdown="IyBTYWdhdGF2b2ppZXMgZGFyYmFtCkphIG5lZXNpIGl6cGlsZMSramlzIHDEgXLEk2pvIGzEq2R6IMWhaW0sIGxlanVwaWVsxIFkxJMgWzUuIG5vZGFyYsSrYmFzIHByb2pla3R1XShodHRwczovL2dpdGh1Yi5jb20vUmFsZnMzZ2xpdGlzL0dhbWVEZXZDbHViRmlyc3RHYW1lL3RyZWUvTm9kYXJiXzVfU1Ip"></div>
 		</div>
 	</div>
 </div>
@@ -248,10 +178,17 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="d42871c609128784" style="transform: translate(-90px, 494px); width: 480px; height: 260px; --canvas-color: #a882ff;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="23817674f4a931eb" style="transform: translate(-1240px, 180px); width: 480px; height: 260px; --canvas-color: #a882ff;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFNhZHVyc21lcyBmb3JtYSBQaWNrdXBEZXRlY3Rpb25ab25l"></div>
+			<div class="canvas-node-text-content" data-markdown="IyBBbmltYXRlZFNwcml0ZTJEIDogQW5pbWF0ZWRTcHJpdGUyRAo+IFTEk2xhIGl6c2thdGEgdW4gYW5pbcSBY2lqdSBrb21wb25lbnRz"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="89d5258af02aca54" style="transform: translate(-140px, 180px); width: 580px; height: 260px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBQaWNrdXBEZXRlY3Rpb25ab25lIDogQXJlYTJECj4gTWV6Z2xzLCBrdXLFoSBwYWRvcyB6acWGdSwgamEgb2JqZWt0cyBpciBpZWvEgXBpcyB0xIEgc2FkdXJzbWVzIGZvcm3EgQ=="></div>
 		</div>
 	</div>
 </div>
@@ -262,10 +199,31 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="1947d81e0eab4cbc" style="transform: translate(-924px, -500px); width: 520px; height: 272px; --canvas-color: #fb464c;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="e1c8db76ab2f4330" style="transform: translate(-680px, 180px); width: 480px; height: 260px; --canvas-color: #a882ff;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBTYWdhdGF2b2ppZXMgZGFyYmFtCkphIG5lZXNpIGl6cGlsZMSramlzIHDEgXLEk2pvIGzEq2R6IMWhaW0sIGxlanVwaWVsxIFkxJMgWzUuIG5vZGFyYsSrYmFzIHByb2pla3R1XShodHRwczovL2dpdGh1Yi5jb20vUmFsZnMzZ2xpdGlzL0dhbWVEZXZDbHViRmlyc3RHYW1lL3RyZWUvTm9kYXJiXzVfU1Ip"></div>
+			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFTEk2xhIHNhZHVyc21lcyBmb3JtYQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="d42871c609128784" style="transform: translate(-90px, 494px); width: 480px; height: 260px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFNhZHVyc21lcyBmb3JtYSBQaWNrdXBEZXRlY3Rpb25ab25l"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="0e7fa9f31b5569f5" style="transform: translate(-2839px, -265px); width: 530px; height: 180px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTcMSTbMSTdMSBamEgUGlja3VwRGV0ZWN0aW9uWm9uZQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="42143613c5e14a77" style="transform: translate(-2920px, 162px); width: 399px; height: 214px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006163402.png" alt="Pasted image 20261006163402.png" loading="lazy" />
 		</div>
 	</div>
 </div>
@@ -276,34 +234,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="9ae1749a35c8c342" style="transform: translate(-3860px, 1855px); width: 600px; height: 116px; --canvas-color: #1498dc;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBHYW1lTWFuYWdlciA6IE5vZGU="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="d9c24432c1b732ed" style="transform: translate(-2779px, 1913px); width: 880px; height: 140px; --canvas-color: #1498dc;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="VmlzdSBtb27Ek3R1LCBrYXMgaXIgc2FkdXJzbWVzIGxhdWvEgSAqKnZhbHVlKiogbWFpbsSrZ2FpcyB0aWtzIHBpZXZpZW5vdHMga29wxJNqYW0gKipzY29yZSoqIA=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="e1c8db76ab2f4330" style="transform: translate(-680px, 180px); width: 480px; height: 260px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFTEk2xhIHNhZHVyc21lcyBmb3JtYQ=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="6049bf46bc99e477" style="transform: translate(-2839px, 2117px); width: 1001px; height: 560px; --canvas-color: #1498dc;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261006145420.png" alt="Pasted image 20261006145420.png" loading="lazy" />
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="16611d54955c00e5" style="transform: translate(1040px, 408px); width: 560px; height: 232px; --canvas-color: #e9973f;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
@@ -311,10 +241,17 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="3bb5f22a21b21c5c" style="transform: translate(-3470px, 2397px); width: 480px; height: 260px; --canvas-color: #1498dc;">
+<div class="canvas-node canvas-node-text has-color" data-node-id="1604f9dfe879875b" style="transform: translate(717px, -1740px); width: 720px; height: 360px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFNhZHVyc21lcyBmb3JtYSBsYXVrYW0sIMWhYWrEgSBnYWTEq2p1bWEgYFJlY3RhbmdsZVNoYXBlMkRg"></div>
+			<div class="canvas-node-text-content" data-markdown="IyBJemtsxIFzdHMKVGFnYWQgdmFyYW0gcGFjZWx0IG9iamVrdHVzIGl6bWFudG9qb3QgcGVsaSwgdGHEjXUsIGvEgSBtxJNzIHBhdmVpa3R1LCBrYSBtxatzdSB0xJNscyB0byB2YXIgaXpkYXLEq3Q/"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="486b6104e3033971" style="transform: translate(-2839px, 1135px); width: 980px; height: 720px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTa3JpcHRzCmBgYApleHRlbmRzIE5vZGUKCkBvbnJlYWR5IHZhciBzY29yZV9sYWJlbCA9ICRTY29yZUxhYmVsCgp2YXIgc2NvcmUgOiBpbnQgPSAwOgoJc2V0KHZhbHVlKToKCQlzY29yZSA9IHZhbHVlCgkJc2NvcmVfbGFiZWwudGV4dCA9ICJZb3UgY29sbGVjdGVkICIgKyBzdHIoc2NvcmUpICsgIiBjb2lucy4iCgkJCmZ1bmMgX29uX2FyZWFfMmRfYm9keV9lbnRlcmVkKGJvZHk6IE5vZGUyRCkgLT4gdm9pZDoKCWlmIGJvZHkgaXMgUGh5c2ljc0NvaW46CgkJc2NvcmUgKz0gYm9keS52YWx1ZQoKZnVuYyBfb25fYXJlYV8yZF9ib2R5X2V4aXRlZChib2R5OiBOb2RlMkQpIC0+IHZvaWQ6CglpZiBib2R5IGlzIFBoeXNpY3NDb2luOgoJCXNjb3JlIC09IGJvZHkudmFsdWUKYGBg"></div>
 		</div>
 	</div>
 </div>
@@ -325,10 +262,59 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="08ea1fc90d2637c6" style="transform: translate(-3520px, 2083px); width: 580px; height: 260px; --canvas-color: #1498dc;">
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="2ca0797ec44c4abf" style="transform: translate(-3560px, -112px); width: 400px; height: 210px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006163416.png" alt="Pasted image 20261006163416.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="6163921734a12e8b" style="transform: translate(-3430px, 255px); width: 400px; height: 241px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006163538.png" alt="Pasted image 20261006163538.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="8eb91117fb3ce71a" style="transform: translate(240px, 1321px); width: 1060px; height: 1775px; --canvas-color: #e0de71;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBBcmVhMkQgOiBBcmVhMkQKPiBNZXpnbHMsIGt1csWhIHBhZG9zIHppxYZ1LCBrYWQgbW9uxJN0YXMgdGFqxIEgaXI="></div>
+			<div class="canvas-node-text-content" data-markdown="YGBgCmV4dGVuZHMgUmlnaWRCb2R5MkQKY2xhc3NfbmFtZSBQaHlzaWNzQ29pbgoKQGV4cG9ydCB2YXIgc3BlZWQgOiBmbG9hdCA9IDEwCgpAb25yZWFkeSB2YXIgcGh5c2ljc2NvaW46IFJpZ2lkQm9keTJEID0gJCIuIgp2YXIgaXNfZHJhZ2dpbmc6IGJvb2wgPSBmYWxzZQp2YXIgcGlja2VkX3VwX2J5IDogQ2hhcmFjdGVyQm9keTJEID0gbnVsbApAb25yZWFkeSB2YXIgcGlja191cF9wcm9tcHQ6IExhYmVsID0gJFBpY2tVcFByb21wdApAZXhwb3J0IHZhciB2YWx1ZSA6IGludCA9IDEKCgpmdW5jIF9vbl9pbnB1dF9ldmVudCh2aWV3cG9ydDogTm9kZSwgZXZlbnQ6IElucHV0RXZlbnQsIHNoYXBlX2lkeDogaW50KSAtPiB2b2lkOgoJaWYgZXZlbnQuaXNfYWN0aW9uX3ByZXNzZWQoImxlZnRfY2xpY2siKToKCQlpc19kcmFnZ2luZyA9IHRydWUKCQlpZiBwaWNrZWRfdXBfYnkgIT0gbnVsbDoKCQkJcmVsZWFzZWQoKQoKZnVuYyBfaW5wdXQoZXZlbnQ6IElucHV0RXZlbnQpIC0+IHZvaWQ6CglpZiBldmVudC5pc19hY3Rpb25fcmVsZWFzZWQoImxlZnRfY2xpY2siKToKCQlpc19kcmFnZ2luZyA9IGZhbHNlCgpmdW5jIF9wcm9jZXNzKGRlbHRhOiBmbG9hdCkgLT4gdm9pZDoKCWlmIGlzX2RyYWdnaW5nOgoJCXZhciBkaXN0YW5jZSA9IGdldF9nbG9iYWxfbW91c2VfcG9zaXRpb24oKSAtIGdsb2JhbF9wb3NpdGlvbgoJCXBoeXNpY3Njb2luLmxpbmVhcl92ZWxvY2l0eSA9IGRpc3RhbmNlICogc3BlZWQKCWVsc2U6CgkJaWYgcGlja2VkX3VwX2J5ICE9IG51bGw6CgkJCXZhciBkaXN0YW5jZSA9IHBpY2tlZF91cF9ieS5nbG9iYWxfcG9zaXRpb24gLSBnbG9iYWxfcG9zaXRpb24KCQkJcGh5c2ljc2NvaW4ubGluZWFyX3ZlbG9jaXR5ID0gZGlzdGFuY2UgKiBzcGVlZAoKZnVuYyBwaWNrZWRfdXAocGlja2VyX3VwcGVyIDogQ2hhcmFjdGVyQm9keTJEKSAtPiB2b2lkOgoJcGlja2VkX3VwX2J5ID0gcGlja2VyX3VwcGVyCgljb2xsaXNpb25fbGF5ZXIgPSAyCgljb2xsaXNpb25fbWFzayA9IDAKCWhpZGVfcGlja3VwX3Byb21wdCgpCgkKZnVuYyByZWxlYXNlZCgpOgoJcGlja2VkX3VwX2J5LmNvaW5faW5fcmFuZ2UocGh5c2ljc2NvaW4pCglwaWNrZWRfdXBfYnkucGlja2VkX3VwX2NvaW5fYXJyYXkuZXJhc2UocGh5c2ljc2NvaW4pCglwaWNrZWRfdXBfYnkgPSBudWxsCgljb2xsaXNpb25fbWFzayA9IDMKCWNvbGxpc2lvbl9sYXllciA9IDIKCQpmdW5jIHNob3dfcGlja3VwX3Byb21wdCgpIC0+IHZvaWQ6CglwaWNrX3VwX3Byb21wdC52aXNpYmxlID0gdHJ1ZQoJCmZ1bmMgaGlkZV9waWNrdXBfcHJvbXB0KCkgLT4gdm9pZDoKCXBpY2tfdXBfcHJvbXB0LnZpc2libGUgPSBmYWxzZQoKYGBg"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="b2738960284060ea" style="transform: translate(-3490px, -359px); width: 260px; height: 120px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTcMSTbMSTdMSBanM="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="8b1d05702d8d639a" style="transform: translate(-725px, 1400px); width: 820px; height: 178px; --canvas-color: #e0de71;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PiBQaWV2aWVub2phbSBhcsSrIGVrc3BvcnTEk3R1ICoqdmFsdWUqKiBtYWluxKtnbywgxaFpcyB0aWtzIGl6bWFudG90cyBsYWkgcGlldmllbm90dSB2xJNydMSrYnUga29wxJNqYW0gKipzY29yZSoqIGphIG1vbsSTdGEgbm9uxIFrIHNhdsSBa8WhYW5hcyB6b27EgQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="71e76a5c178bfa2b" style="transform: translate(-3780px, 1412px); width: 400px; height: 167px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006145151.png" alt="Pasted image 20261006145151.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="2a3c9616a11f2bbb" style="transform: translate(-4205px, -175px); width: 540px; height: 303px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006162521.png" alt="Pasted image 20261006162521.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="26666454dd975dad" style="transform: translate(-4105px, 375px); width: 530px; height: 180px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBHYW1lTWFuYWdlciBBcmVhMkQ="></div>
 		</div>
 	</div>
 </div>
@@ -353,6 +339,48 @@
 		</div>
 	</div>
 </div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="90244991e16b23fb" style="transform: translate(-725px, 1720px); width: 820px; height: 280px; --canvas-color: #e0de71;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="KipwaHlzaWNzY29pbioqIHNrcmlwdGEgYXVnxaHEgSBwaWV2aWVub2phbSBgY2xhc3NfbmFtZSBQaHlzaWNzQ29pbmAgLSDFoW8gaXptYW50b2phbSBsYWkgYXRwYXrEq3R1LCBrYSDFoWlzIFJpZ2lkQm9keTJEIG1lemdscyBpciBtb27Ek3RhIGNpdG9zIGVsZW1lbnRvcw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="054a67ebf065772a" style="transform: translate(-4060px, 2083px); width: 480px; height: 260px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBTY29yZUxhYmVsIDogTGFiZWwKPiBUZWtzdHMtIHV6csSBZMSrcyBjaWsgbW9uxJN0YXMgaXIgc2F2xIFrdGFz"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="9ae1749a35c8c342" style="transform: translate(-3860px, 1855px); width: 600px; height: 116px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBHYW1lTWFuYWdlciA6IE5vZGU="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="d9c24432c1b732ed" style="transform: translate(-2779px, 1913px); width: 880px; height: 140px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VmlzdSBtb27Ek3R1LCBrYXMgaXIgc2FkdXJzbWVzIGxhdWvEgSAqKnZhbHVlKiogbWFpbsSrZ2FpcyB0aWtzIHBpZXZpZW5vdHMga29wxJNqYW0gKipzY29yZSoqIA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image has-color" data-node-id="6049bf46bc99e477" style="transform: translate(-2839px, 2117px); width: 1001px; height: 560px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261006145420.png" alt="Pasted image 20261006145420.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="08ea1fc90d2637c6" style="transform: translate(-3520px, 2083px); width: 580px; height: 260px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBBcmVhMkQgOiBBcmVhMkQKPiBNZXpnbHMsIGt1csWhIHBhZG9zIHppxYZ1LCBrYWQgbW9uxJN0YXMgdGFqxIEgaXI="></div>
+		</div>
+	</div>
+</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="ed7b271a50b523bf" style="transform: translate(2180px, 1880px); width: 1000px; height: 120px; --canvas-color: #fb464c;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
@@ -367,52 +395,17 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="21e5d0ff8b2b7ec3" style="transform: translate(3280px, 1340px); width: 1000px; height: 1080px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBGdW5rY2lqYXMKYGBgCmZ1bmMgcGlja191cF9jb2lucygpIC0+IHZvaWQ6Cglmb3IgY29pbiBpbiBpbl9yYW5nZV9jb2luX2FycmF5LmR1cGxpY2F0ZSgpOgoJCWNvaW4ucGlja2VkX3VwKHBsYXllcikKCQlwaWNrZWRfdXBfY29pbl9hcnJheS5hcHBlbmQoY29pbikKCWluX3JhbmdlX2NvaW5fYXJyYXkuY2xlYXIoKQoJCQoJZm9yIGNvaW4gaW4gaW5fcmFuZ2VfY29pbl9hcnJheToKCQljb2luLnBpY2tlZF91cChwbGF5ZXIpCgkJcGlja2VkX3VwX2NvaW5fYXJyYXkuYXBwZW5kKGNvaW4pCgkJaW5fcmFuZ2VfY29pbl9hcnJheS5lcmFzZShjb2luKQoKZnVuYyBfb25fcGlja3VwX2RldGVjdGlvbl96b25lX2JvZHlfZW50ZXJlZChib2R5OiBOb2RlMkQpIC0+IHZvaWQ6CglpZiBib2R5IGlzIFBoeXNpY3NDb2luIGFuZCAhcGlja2VkX3VwX2NvaW5fYXJyYXkuaGFzKGJvZHkpOgoJCWNvaW5faW5fcmFuZ2UoYm9keSkKCQkKZnVuYyBjb2luX2luX3JhbmdlKGNvaW4gOiBQaHlzaWNzQ29pbikgLT4gdm9pZDoKCWluX3JhbmdlX2NvaW5fYXJyYXkuYXBwZW5kKGNvaW4pCgljb2luLnNob3dfcGlja3VwX3Byb21wdCgpCgpmdW5jIF9vbl9waWNrdXBfZGV0ZWN0aW9uX3pvbmVfYm9keV9leGl0ZWQoYm9keTogTm9kZTJEKSAtPiB2b2lkOgoJaWYgYm9keSBpcyBQaHlzaWNzQ29pbiBhbmQgIXBpY2tlZF91cF9jb2luX2FycmF5Lmhhcyhib2R5KToKCQljb2luX291dF9vZl9yYW5nZShib2R5KQoJCQpmdW5jIGNvaW5fb3V0X29mX3JhbmdlKGNvaW4gOiBQaHlzaWNzQ29pbikgLT4gdm9pZDoKCWluX3JhbmdlX2NvaW5fYXJyYXkuZXJhc2UoY29pbikKCWNvaW4uaGlkZV9waWNrdXBfcHJvbXB0KCkKYGBg"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="c9a1d21cdefbbeb8" style="transform: translate(3280px, 2455px); width: 1000px; height: 200px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyB6ZW0gYGZ1bmMgX3BoeXNpY3NfcHJvY2VzcyhkZWx0YSlgCgpwaWV2aWVub2phbToKYGlmIElucHV0LmlzX2FjdGlvbl9qdXN0X3ByZXNzZWQoIkludGVyYWN0Iik6CglwaWNrX3VwX2NvaW5zKClg"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="54d645c661a0af93" style="transform: translate(-270px, 2700px); width: 490px; height: 588px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/Attachments/Pasted%20image%2020261008130340.png" alt="Pasted image 20261008130340.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="8eb91117fb3ce71a" style="transform: translate(240px, 1321px); width: 1060px; height: 1775px; --canvas-color: #e0de71;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="YGBgCmV4dGVuZHMgUmlnaWRCb2R5MkQKY2xhc3NfbmFtZSBQaHlzaWNzQ29pbgoKQGV4cG9ydCB2YXIgc3BlZWQgOiBmbG9hdCA9IDEwCgpAb25yZWFkeSB2YXIgcGh5c2ljc2NvaW46IFJpZ2lkQm9keTJEID0gJCIuIgp2YXIgaXNfZHJhZ2dpbmc6IGJvb2wgPSBmYWxzZQp2YXIgcGlja2VkX3VwX2J5IDogQ2hhcmFjdGVyQm9keTJEID0gbnVsbApAb25yZWFkeSB2YXIgcGlja191cF9wcm9tcHQ6IExhYmVsID0gJFBpY2tVcFByb21wdApAZXhwb3J0IHZhciB2YWx1ZSA6IGludCA9IDEKCgpmdW5jIF9vbl9pbnB1dF9ldmVudCh2aWV3cG9ydDogTm9kZSwgZXZlbnQ6IElucHV0RXZlbnQsIHNoYXBlX2lkeDogaW50KSAtPiB2b2lkOgoJaWYgZXZlbnQuaXNfYWN0aW9uX3ByZXNzZWQoImxlZnRfY2xpY2siKToKCQlpc19kcmFnZ2luZyA9IHRydWUKCQlpZiBwaWNrZWRfdXBfYnkgIT0gbnVsbDoKCQkJcmVsZWFzZWQoKQoKZnVuYyBfaW5wdXQoZXZlbnQ6IElucHV0RXZlbnQpIC0+IHZvaWQ6CglpZiBldmVudC5pc19hY3Rpb25fcmVsZWFzZWQoImxlZnRfY2xpY2siKToKCQlpc19kcmFnZ2luZyA9IGZhbHNlCgpmdW5jIF9wcm9jZXNzKGRlbHRhOiBmbG9hdCkgLT4gdm9pZDoKCWlmIGlzX2RyYWdnaW5nOgoJCXZhciBkaXN0YW5jZSA9IGdldF9nbG9iYWxfbW91c2VfcG9zaXRpb24oKSAtIGdsb2JhbF9wb3NpdGlvbgoJCXBoeXNpY3Njb2luLmxpbmVhcl92ZWxvY2l0eSA9IGRpc3RhbmNlICogc3BlZWQKCWVsc2U6CgkJaWYgcGlja2VkX3VwX2J5ICE9IG51bGw6CgkJCXZhciBkaXN0YW5jZSA9IHBpY2tlZF91cF9ieS5nbG9iYWxfcG9zaXRpb24gLSBnbG9iYWxfcG9zaXRpb24KCQkJcGh5c2ljc2NvaW4ubGluZWFyX3ZlbG9jaXR5ID0gZGlzdGFuY2UgKiBzcGVlZAoKZnVuYyBwaWNrZWRfdXAocGlja2VyX3VwcGVyIDogQ2hhcmFjdGVyQm9keTJEKSAtPiB2b2lkOgoJcGlja2VkX3VwX2J5ID0gcGlja2VyX3VwcGVyCgljb2xsaXNpb25fbGF5ZXIgPSAyCgljb2xsaXNpb25fbWFzayA9IDAKCWhpZGVfcGlja3VwX3Byb21wdCgpCgkKZnVuYyByZWxlYXNlZCgpOgoJcGlja2VkX3VwX2J5LmNvaW5faW5fcmFuZ2UocGh5c2ljc2NvaW4pCglwaWNrZWRfdXBfYnkucGlja2VkX3VwX2NvaW5fYXJyYXkuZXJhc2UocGh5c2ljc2NvaW4pCglwaWNrZWRfdXBfYnkgPSBudWxsCgljb2xsaXNpb25fbWFzayA9IDMKCWNvbGxpc2lvbl9sYXllciA9IDIKCQpmdW5jIHNob3dfcGlja3VwX3Byb21wdCgpIC0+IHZvaWQ6CglwaWNrX3VwX3Byb21wdC52aXNpYmxlID0gdHJ1ZQoJCmZ1bmMgaGlkZV9waWNrdXBfcHJvbXB0KCkgLT4gdm9pZDoKCXBpY2tfdXBfcHJvbXB0LnZpc2libGUgPSBmYWxzZQoKYGBg"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="8b1d05702d8d639a" style="transform: translate(-725px, 1400px); width: 820px; height: 178px; --canvas-color: #e0de71;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PiBQaWV2aWVub2phbSBhcsSrIGVrc3BvcnTEk3R1ICoqdmFsdWUqKiBtYWluxKtnbywgxaFpcyB0aWtzIGl6bWFudG90cyBsYWkgcGlldmllbm90dSB2xJNydMSrYnUga29wxJNqYW0gKipzY29yZSoqIGphIG1vbsSTdGEgbm9uxIFrIHNhdsSBa8WhYW5hcyB6b27EgQ=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="90244991e16b23fb" style="transform: translate(-725px, 1720px); width: 820px; height: 280px; --canvas-color: #e0de71;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="KipwaHlzaWNzY29pbioqIHNrcmlwdGEgYXVnxaHEgSBwaWV2aWVub2phbSBgY2xhc3NfbmFtZSBQaHlzaWNzQ29pbmAgLSDFoW8gaXptYW50b2phbSBsYWkgYXRwYXrEq3R1LCBrYSDFoWlzIFJpZ2lkQm9keTJEIG1lemdscyBpciBtb27Ek3RhIGNpdG9zIGVsZW1lbnRvcw=="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="3067d9b7b391c75c" style="transform: translate(-840px, 2072px); width: 740px; height: 160px; --canvas-color: #e0de71;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="UGlldmllbm9qYW0gKipMYWJlbCoqIGBQaWNrVXBQcm9tcHRgLCB0YXMgaXIgcGFzbMSTcHRzIHDEk2Mgbm9rbHVzxJNqdW1hIGpvIHRvIHBhcsSBZGFtIGNhdXIga29kdSBrYWQgaXIgc3DEk2zEk3TEgWphbSB0dXZ1bcSBLiBUxIEgdGVrc3RzIGlyIGBFIHRvIHBpY2sgdXBg"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="3bb5f22a21b21c5c" style="transform: translate(-3470px, 2397px); width: 480px; height: 260px; --canvas-color: #1498dc;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBDb2xsaXNpb25TaGFwZTJEIDogQ29sbGlzaW9uU2hhcGUyRAo+IFNhZHVyc21lcyBmb3JtYSBsYXVrYW0sIMWhYWrEgSBnYWTEq2p1bWEgYFJlY3RhbmdsZVNoYXBlMkRg"></div>
 		</div>
 	</div>
 </div>
@@ -427,6 +420,13 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/Attachments/Pasted%20image%2020261006144841.png" alt="Pasted image 20261006144841.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="54d645c661a0af93" style="transform: translate(-270px, 2700px); width: 490px; height: 588px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Attachments/Pasted%20image%2020261008130340.png" alt="Pasted image 20261008130340.png" loading="lazy" />
 		</div>
 	</div>
 </div>
