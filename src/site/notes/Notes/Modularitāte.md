@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/modularitate/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/11. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-27","cssclasses":null}}
 ---
 
+[[Notes/11. Pulciņa nodarbība\|Atpakaļ]]
+
 ---
 # Kas ir modularitāte?
 ## Definīcija
@@ -16,7 +18,7 @@ Tātad, **modulāra sistēma** ir sadalīta **moduļos** jeb **funkcionālos kom
 ## Mezglos
 Iepriekš apskatījām modularitāti mezglu arhitektūrā, kur, piemēram, mezgls **pretinieks** sastāv no **animāciju** un **kustību** komponenta. Šos komponentus varam izmantot arī spēlētāja izveidei, piesaistot klāt vēl arī **kameru**.
 Šādu jaunu elementu izveidi izmantojot eksistējošus **moduļus** sauc par **kompozīciju**. Kompozīcija ir galvenais *OOP* paņēmiens spēļu izstrādē.
-![[Canvas/Godot mezgli canvas.canvas\|Godot mezgli canvas.canvas]]
+### [[Canvas/Godot mezgli canvas.canvas \| Mezglu arhitektūras zīmējums]]
 ## Skriptos
 Pieņemsim, ka mums ir šāda mezglu arhitektūra:
 ![Pasted image 20261027122849.png](/img/user/Attachments/Pasted%20image%2020261027122849.png)
@@ -42,15 +44,15 @@ Ja skriptā esam eksportējuši mainīgo `physical_body`:
 ```
 Inspektorā redzam, ka parādās aile **Physical Body**.
 ![Pasted image 20261027124317.png](/img/user/Attachments/Pasted%20image%2020261027124317.png)
-Ja, spiežot `Assign...` un ievietojam **PhysicalBody** mezglu:
+Ja, spiežot `Assign...` ievietojam **PhysicalBody** mezglu:
 ![Pasted image 20261027124427.png](/img/user/Attachments/Pasted%20image%2020261027124427.png)
 Mums ir definēts `physical_body` mainīgais ar **modulāru** atsauci uz mezglu. Varam ātri nomainīt `physical_body` vērtību inspektorā, un atsauce saglabājās, pat, ja pārvietojam **PhysicalBody** mezglu hierarhijā, jo šāda veida atsauce **nav relatīva no izsaucēja**.
 Varam arī pārbaudīt, vai ir piesaistīts mezgls:
 ```
 if physical_body:
-	#Do something
+	# Do something
 else:
-	#Do something else
+	# Do something else
 ```
 
 # Kā izveidot moduli?
@@ -118,4 +120,5 @@ func _physics_process(delta: float) -> void:
 ```
 > Šajā skriptā, izmantojam `lerp` ([lineāri interpolējam](https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html)) lai izveidotu dzīvību palielināšanās / samazināšanās animāciju.
 
+## Secinājums
 Šādi mēs veidojam **atdalītas sistēmas**, uzturot **modulāru sistēmas arhitektūru** un veidojot jaunus objektus pielietojot **kompozīciju**. 
