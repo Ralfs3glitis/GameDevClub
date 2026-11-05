@@ -288,6 +288,7 @@ func load_game() -> bool:
     return true
 ```
 
+>[!Globalizacija]
 Pataisiet to par **globālu skriptu** sadaļā **Project => Project Settings => Globals (Autoload)** ar nosaukumu `SaveManager`. Tagad jebkurš skripts varēs izmantot `SaveManager.data`, `SaveManager.save_game()` utt.
 
 
