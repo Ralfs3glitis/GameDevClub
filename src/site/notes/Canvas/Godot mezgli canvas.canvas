@@ -96,24 +96,31 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="93b4a468bd3b3ccf" style="transform: translate(-400px, -1050px); width: 630px; height: 120px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPlByZXRpbmlla3M8L2gxPg=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="acdafe7025d4c748" style="transform: translate(250px, -995px); width: 260px; height: 60px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown=""></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="194a904e2fdcf698" style="transform: translate(3490px, -2340px); width: 650px; height: 340px; --canvas-color: #53dfdd;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="IyMjIyBLb21wb3rEq2NpamFzIGF0YmFsc3RzCkdvZG90IG5hdHVyxIFsaSBhdGJhbHN0YSBbW0NhbnZhcy9Hb2RvdCBtZXpnbGkgY2FudmFzLmNhbnZhcyNlOWM0NGE1NjYzZjdlNDA0XHxrb21wb3rEq2NpamFzXV0gcGllbGlldG9qdW11IHNwxJPEvHUgaXp2ZWlkZWksIHBhdGVpY290aWVzIG1lemdsb3MgYmFsc3TEq3RhaSBhcmhpdGVrdMWrcmFpIHVuIGllc3DEk2phaSBzYWdsYWLEgXQgbWV6Z2x1IGtva3VzIGvEgSBhaW5hcy4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="831fca5f6f0eb6c6" style="transform: translate(3480px, -2700px); width: 660px; height: 260px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="CjxkaXYgY2xhc3M9InRyYW5zY2x1c2lvbiBpbnRlcm5hbC1lbWJlZCBpcy1sb2FkZWQiPjxhIGNsYXNzPSJtYXJrZG93bi1lbWJlZC1saW5rIiBocmVmPSIvbm90ZXMvaWVwYXppc2FuYXMtYXItZ29kb3QtZHppbmkvI2FpbmFzIiBhcmlhLWxhYmVsPSJPcGVuIGxpbmsiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ic3ZnLWljb24gbHVjaWRlLWxpbmsiPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIj48L3BhdGg+PHBhdGggZD0iTTE0IDExYTUgNSAwIDAgMC03LjU0LS41NGwtMyAzYTUgNSAwIDAgMCA3LjA3IDcuMDdsMS43MS0xLjcxIj48L3BhdGg+PC9zdmc+PC9hPjxkaXYgY2xhc3M9Im1hcmtkb3duLWVtYmVkIj4KCgoKIyMjIyBBaW5hcwotIE1lemdsdSBrb2t1IChub2RlIHRyZWUpIGhpZXJhcmhpanUgc2F1YyBwYXIgImFpbnUiIChfc2NlbmVfKSwgdG8gaWVzcMSTamFtcyBzYWdsYWLEgXQgdW4gaXpzYXVrdCBhdGvEgXJ0b3RhaSBsaWV0b2phbcSrYmFpLiAKCjwvZGl2PjwvZGl2Pgo="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="a520c63702b1d17e" style="transform: translate(-1080px, -335px); width: 630px; height: 120px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkt1c3TEq2JhcyBrb21wb25lbnRzPC9oMT4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="418b31d60efa2614" style="transform: translate(-1760px, -335px); width: 630px; height: 120px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkthbWVyYTwvaDE+"></div>
 		</div>
 	</div>
 </div>
@@ -145,24 +152,10 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="831fca5f6f0eb6c6" style="transform: translate(3480px, -2700px); width: 660px; height: 260px; --canvas-color: #53dfdd;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="CjxkaXYgY2xhc3M9InRyYW5zY2x1c2lvbiBpbnRlcm5hbC1lbWJlZCBpcy1sb2FkZWQiPjxhIGNsYXNzPSJtYXJrZG93bi1lbWJlZC1saW5rIiBocmVmPSIvbm90ZXMvaWVwYXppc2FuYXMtYXItZ29kb3QtZHppbmkvI2FpbmFzIiBhcmlhLWxhYmVsPSJPcGVuIGxpbmsiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ic3ZnLWljb24gbHVjaWRlLWxpbmsiPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIj48L3BhdGg+PHBhdGggZD0iTTE0IDExYTUgNSAwIDAgMC03LjU0LS41NGwtMyAzYTUgNSAwIDAgMCA3LjA3IDcuMDdsMS43MS0xLjcxIj48L3BhdGg+PC9zdmc+PC9hPjxkaXYgY2xhc3M9Im1hcmtkb3duLWVtYmVkIj4KCgoKIyMjIyBBaW5hcwotIE1lemdsdSBrb2t1IChub2RlIHRyZWUpIGhpZXJhcmhpanUgc2F1YyBwYXIgImFpbnUiIChfc2NlbmVfKSwgdG8gaWVzcMSTamFtcyBzYWdsYWLEgXQgdW4gaXpzYXVrdCBhdGvEgXJ0b3RhaSBsaWV0b2phbcSrYmFpLiAKCjwvZGl2PjwvZGl2Pgo="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text has-color" data-node-id="502cb79506ba1cdb" style="transform: translate(2535px, -2600px); width: 400px; height: 120px; --canvas-color: #53dfdd;">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkzEq21lbmlzPC9oMT4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="8f61abdbc63755a9" style="transform: translate(280px, -1050px); width: 630px; height: 120px; --canvas-color: #e9973f;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPktva3M8L2gxPg=="></div>
 		</div>
 	</div>
 </div>
@@ -184,6 +177,20 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkt1c3TEq2JhcyBrb21wb25lbnRzPC9oMT4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="93b4a468bd3b3ccf" style="transform: translate(-400px, -1050px); width: 630px; height: 120px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPlByZXRpbmlla3M8L2gxPg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="8f61abdbc63755a9" style="transform: translate(280px, -1050px); width: 630px; height: 120px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPktva3M8L2gxPg=="></div>
 		</div>
 	</div>
 </div>
@@ -212,20 +219,6 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPlNwxJNqdSBrb21wb25lbnRzPC9oMT4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="a520c63702b1d17e" style="transform: translate(-1080px, -335px); width: 630px; height: 120px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkt1c3TEq2JhcyBrb21wb25lbnRzPC9oMT4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="418b31d60efa2614" style="transform: translate(-1760px, -335px); width: 630px; height: 120px; --canvas-color: #a882ff;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjsiPkthbWVyYTwvaDE+"></div>
 		</div>
 	</div>
 </div>

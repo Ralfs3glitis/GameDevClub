@@ -20,6 +20,7 @@
 | [[Notes/11. Pulciņa nodarbība\|11. Pulciņa nodarbība]] | 27.10.2026 |
 | [[Notes/12. Pulciņa nodarbība\|12. Pulciņa nodarbība]] | 29.10.2026 |
 | [[Notes/13. Pulciņa nodarbība\|13. Pulciņa nodarbība]] | 03.11.2026 |
+| [[Notes/14. Pulciņa nodarbība\|14. Pulciņa nodarbība]] | 05.11.2026 |
 
 { .block-language-dataview}
 
