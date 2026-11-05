@@ -41,6 +41,9 @@
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
       ]
+    },
+    "dg-link-preview": {
+      "enabled": false
     }
   }
 }
