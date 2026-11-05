@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/modularitate/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/11. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-27","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/modularitate/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/11. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-27","cssclasses":null}}
 ---
 
-[[Notes/11. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/11. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # Kas ir modularitāte?

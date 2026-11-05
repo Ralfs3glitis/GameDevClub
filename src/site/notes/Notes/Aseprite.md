@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/aseprite/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/8. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-13","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/aseprite/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/8. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-13","cssclasses":null}}
 ---
 
-[[Notes/8. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/8. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # [Uzliec lādēties!](https://www.aseprite.org/trial/)

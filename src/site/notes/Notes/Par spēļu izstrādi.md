@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/par-spelu-izstradi/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/par-spelu-izstradi/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null}}
 ---
 
-[[Notes/1. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/1. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # Māksla + zinātne = spēļu izstrāde

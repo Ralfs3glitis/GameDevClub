@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/libre-sprite/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/9. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-13","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/libre-sprite/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/9. Pulciņa nodarbība]]","tags":["note"],"created":"2026-10-13","cssclasses":null}}
 ---
 
-[[Notes/9. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/9. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # Par lietotni

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/godot-resursi/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/14. Pulciņa nodarbība]]"],"tags":["note"],"created":"2026-11-05","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/godot-resursi/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Pulciņa nodarbības/14. Pulciņa nodarbība]]"],"tags":["note"],"created":"2026-11-05","cssclasses":null}}
 ---
 
-[[Notes/14. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/14. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Kas ir resurss (**Resource**)?
 
-### **Definīcija**
+### Definīcija
 **Resurss** ir Godot objekts, kura uzdevums ir **glabāt datus**. Tas nav [[Notes/Iepazīšanās ar Godot dzini#Mezgli\|Node (mezgls)]] - tas neatrodās [[Notes/Iepazīšanās ar Godot dzini#Ainas\|ainā]], tam nav `_process` un tam nav pozīcijas. Tas ir tikai vērtību konteiners, kuru Godot prot **saglabāt failā un ielādēt atpakaļ**.
 
 **Resurss** ir fails ar paplašinājumu `.tres` vai `.res` 

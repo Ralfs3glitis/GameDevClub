@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/collision-objects-and-shapes-in-godot/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Notes/4. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-29","cssclasses":null}}
+{"dg-publish":true,"permalink":"/notes/collision-objects-and-shapes-in-godot/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/4. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-29","cssclasses":null}}
 ---
 
-[[Notes/4. Pulciņa nodarbība\|Atpakaļ]]
+[[Pulciņa nodarbības/4. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # Sadursmes objekti un formas

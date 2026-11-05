@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mda-framework/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana|Pulciņš]]"],"section":"[[Notes/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null,"source":"https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research"}}
+{"dg-publish":true,"permalink":"/notes/mda-framework/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana|Pulciņš]]"],"section":"[[Pulciņa nodarbības/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null,"source":"https://www.researchgate.net/publication/228884866_MDA_A_Formal_Approach_to_Game_Design_and_Game_Research"}}
 ---
 
 # Materiāls
