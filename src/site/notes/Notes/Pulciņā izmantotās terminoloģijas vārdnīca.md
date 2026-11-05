@@ -5,6 +5,7 @@
 [[Notes/Datorspēļu dizains un programmēšana\|Atpakaļ]]
 
 ---
+
 | Latviešu                                  | Angļu                      | Nozīme                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AAA                                       | AAA                        | Videospēļu nozarē termins "AAA" tiek izmantots, lai klasificētu videospēles, kuras ražo vai izplata vidēja lieluma vai lielie izdevēji un kurām parasti ir lielāki izstrādes un mārketinga budžeti nekā citu līmeņu spēlēm.                                                                                                             |

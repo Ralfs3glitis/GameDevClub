@@ -3,7 +3,7 @@
 ---
 
 # 🧭 Navigācija
-- 🗓️ **[[Notes/Pulciņa nodarbības\|Nodarbības]]**
+- 🗓️ **[[Pulciņa nodarbības/Visas pulciņa nodarbības\|Nodarbības]]**
 - ℹ️ **[[Notes/Pulciņš info\|Informācija]]**
 - 📖 **[[Notes/Pulciņā izmantotās terminoloģijas vārdnīca\|Terminoloģijas vārdnīca]]**
 
