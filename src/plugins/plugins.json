@@ -44,6 +44,9 @@
     },
     "dg-link-preview": {
       "enabled": false
+    },
+    "dg-timestamps": {
+      "enabled": false
     }
   }
 }
