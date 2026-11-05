@@ -23,8 +23,8 @@
 
 #### Kā izskatās `.tres` fails
 
->[!Piemērs] 
->Saglabāts `SaveData` resurss [[Notes/Godot resursi#Pilnā saglabāšanas struktūra\|skripts redzams šeit]], kurā ir `PlayerData` un `SettingsData`. Šo failu var atvērt jebkurā teksta redaktorā (Notepad, VS Code):
+>[!Piemers] 
+>Saglabāts `SaveData` resurss ([[Notes/Godot resursi#Pilnā saglabāšanas struktūra\|skripts redzams šeit]]), kurā ir `PlayerData` un `SettingsData`. Šo failu var atvērt jebkurā teksta redaktorā (Notepad, VS Code):
 
 ```
 [gd_resource type="Resource" script_class="SaveData" load_steps=4 format=3]
@@ -90,13 +90,6 @@ SceneB --"manto"--> Resource
 ScriptB --"manto"--> Resource
 ```
 
-| Jūs izmantojat... | Tas patiesībā ir...     |
-| ----------------- | ----------------------- |
-| Sprite tekstūra   | `Texture2D` (resurss)   |
-| Skaņas fails      | `AudioStream` (resurss) |
-| `.tscn` aina      | `PackedScene` (resurss) |
-| `.gd` skripts     | `Script` (resurss)      |
-
 >**Asets** ir fails jūsu projektā (piemēram, `.png`), bet **resurss** ir Godot objekts, kas šo failu ielādē un ar to strādā. Tāpēc, piemēram, `.png` asetu Godot ielādē kā `Texture2D` **resursu**.
 
 >Jūs varat izveidot **savus resursu tipus** ar saviem mainīgajiem un fukcijām, un Godot tos serializēs (pārvērtīs failā).
@@ -111,7 +104,7 @@ ScriptB --"manto"--> Resource
 | Var tikt saglabāts failā pats par sevi             | Tikai kā daļa no ainas      | Jā, tieši                          |
 | Atmiņas atbrīvošana                                | Kad izņemts no koka         | Kad uz to vairs neviens neatsaucas |
 
->[!Piemērs]
+>[!Piemers]
 >Spēlētāja [[Notes/Iepazīšanās ar Godot dzini#Mezgli\|mezgls]] skrien un šaudās. Spēlētāja dzīvības, maksimālās dzīvības un šāviņu skaits ir _dati par spēlētāju_, un šie dati pieder **resursam**.
 
 ---
@@ -121,6 +114,7 @@ ScriptB --"manto"--> Resource
 >Sevis veidots resurss ir **skripts**, kas papildina **resursu** objektu `extends Resource`.
 
 ```gdscript
+# res://resources/player_data.gd
 class_name PlayerData
 extends Resource
 
@@ -198,9 +192,10 @@ print(loaded.hp)   # 42
 | `res://`  | Jūsu projekta mape                                             | redaktorā jā, **eksportētā spēlē nē** |
 | `user://` | Atsevišķa mape katram lietotājam un projektam spēlētāja datorā | Vienmēr                               |
 
-**Saglabāšanas failiem jāatrodas `user://`.** Ja saglabāsiet `res://`, liksies, ka viss strādā kā iecerēts, taču salūzīs uzreiz pēc spēles eksportēšanas.
+>[!Atceries]
+>**Saglabāšanas failiem jāatrodas `user://`.** Ja saglabāsiet `res://`, liksies, ka viss strādā kā iecerēts, taču salūzīs uzreiz pēc spēles eksportēšanas.
 
-Lai uzzinātu, kur tieši atrodas `user://` jūsu datorā: redaktorā **Project => Open User Data Folder**.
+Lai uzzinātu, kur tieši atrodas `user://`, ej uz **Project => Open User Data Folder**.
 
 ### `.tres` pret `.res`
 
@@ -235,6 +230,7 @@ position = Vector2(240, 128)
 Labāk nekā saglabāt daudzus mazus failus ir izveidot **vienu saknes resursu `SaveData`**, kurā ir ligzdoti citi resursi.
 
 ```gdscript
+# res://resources/save_data.gd
 class_name SaveData
 extends Resource
 
@@ -245,6 +241,7 @@ extends Resource
 ```
 
 ```gdscript
+# res://resources/settings_data.gd
 class_name SettingsData
 extends Resource
 
@@ -261,7 +258,7 @@ extends Resource
 Saglabāšanas sistēmai jābūt pieejamai no galvenās izvēlnes, spēlētāja, līmeņa utt. Standarta risinājums ir **[Autoload](https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html)** (globāli ielādēts skripts, kas vienmēr ir pieejams).
 
 ```gdscript
-# save_manager.gd
+# res://save_manager.gd
 extends Node
 
 const SAVE_PATH := "user://savegame.tres"
@@ -283,8 +280,7 @@ func load_game() -> bool:
     if not has_save():
         return false
     var loaded := ResourceLoader.load(
-        SAVE_PATH, "", ResourceLoader.CACHE_MODE_IGNORE
-    ) as SaveData
+        SAVE_PATH) as SaveData
     if loaded == null:
         printerr("Saglabājuma fails ir bojāts vai nelasāms.")
         return false
@@ -292,9 +288,8 @@ func load_game() -> bool:
     return true
 ```
 
-Reģistrējiet to sadaļā **Project => Project Settings => Globals (Autoload)** ar nosaukumu `SaveManager`. Tagad jebkurš skripts var izmantot `SaveManager.data`, `SaveManager.save_game()` utt.
+Pataisiet to par **globālu skriptu** sadaļā **Project => Project Settings => Globals (Autoload)** ar nosaukumu `SaveManager`. Tagad jebkurš skripts varēs izmantot `SaveManager.data`, `SaveManager.save_game()` utt.
 
-> Par `CACHE_MODE_IGNORE` ir izskaidrots 8. sadaļā. Pagaidām pietiek zināt: tas nodrošina, ka fails vienmēr tiek nolasīts no diska no jauna.
 
 ---
 
