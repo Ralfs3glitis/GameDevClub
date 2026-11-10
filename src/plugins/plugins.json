@@ -47,6 +47,30 @@
     },
     "dg-timestamps": {
       "enabled": false
+    },
+    "clean-print": {
+      "repo": "koltensaccount/garden-plugin-clean-print",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-11-10T12:17:50.020Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/clean-print/LICENSE",
+        "src/plugins/clean-print/README.md",
+        "src/plugins/clean-print/VALIDATION.md",
+        "src/plugins/clean-print/assets/clean-print.js",
+        "src/plugins/clean-print/assets/nav-tools.js",
+        "src/plugins/clean-print/garden-plugin.json",
+        "src/plugins/clean-print/package-lock.json",
+        "src/plugins/clean-print/package.json",
+        "src/plugins/clean-print/screenshot.png",
+        "src/plugins/clean-print/scripts/check.cjs",
+        "src/plugins/clean-print/scripts/install.cjs",
+        "src/plugins/clean-print/styles/clean-print.css",
+        "src/plugins/clean-print/styles/nav-tools.css",
+        "src/plugins/clean-print/templates/config.njk",
+        "src/plugins/clean-print/tests/browser.test.cjs"
+      ]
     }
   }
 }
