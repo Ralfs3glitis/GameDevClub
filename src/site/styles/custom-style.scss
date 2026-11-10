@@ -1,255 +1,161 @@
 /* ==========================================================
-   Pulciņš home page – handheld console
+   Pulciņš home page – Rosé Pine cards
    Paste into: src/site/styles/custom-style.scss
-   Everything is scoped to .gd-home, so the rest of the
-   garden is untouched.
+   Scoped to .gd-home, so the rest of the garden is untouched.
    ========================================================== */
 
 .gd-home {
-  /* Original four-shade handheld LCD palette + shell colours */
-  --gb-0: #0f380f;
-  --gb-1: #306230;
-  --gb-2: #8bac0f;
-  --gb-3: #9bbc0f;
-  --shell: #d0cbb8;
-  --bezel: #5a5868;
-  --button: #a3294f;
-  --pixel-font: "Press Start 2P", "Trebuchet MS", system-ui, sans-serif;
+  /* Rosé Pine (dark) */
+  --rp-surface: #1f1d2e;
+  --rp-overlay: #26233a;
+  --rp-muted: #6e6a86;
+  --rp-subtle: #908caa;
+  --rp-text: #e0def4;
 
-  max-width: 560px;
-  margin: 1.5rem auto 2.5rem;
+  margin: 1rem 0 2rem;
 }
 
-/* ---------- Shell ---------- */
-.gd-home .gd-console {
-  padding: 1.25rem 1.25rem 1.1rem;
-  background: var(--shell);
-  border-radius: 14px 14px 64px 14px;
-  box-shadow:
-    inset 3px 3px 0 rgba(255, 255, 255, 0.35),
-    inset -4px -4px 0 rgba(0, 0, 0, 0.14),
-    0 22px 40px -22px rgba(0, 0, 0, 0.55);
+/* ---------- Header ---------- */
+.gd-home .gd-hero {
+  margin-bottom: 2rem;
 }
 
-/* ---------- Bezel + screen ---------- */
-.gd-home .gd-bezel {
-  padding: 0.7rem 1.2rem 1.2rem;
-  background: var(--bezel);
-  border-radius: 10px 10px 42px 10px;
+.gd-home .gd-pill {
+  display: inline-block;
+  margin-bottom: 0.9rem;
+  padding: 0.2rem 0.75rem;
+  font-size: 0.8rem;
+  color: var(--rp-subtle);
+  background: var(--rp-overlay);
+  border-radius: 999px;
 }
 
-.gd-home .gd-bezel-top {
-  display: flex;
-  align-items: center;
-  gap: 0.55rem;
-  margin-bottom: 0.6rem;
-}
-
-.gd-home .gd-led {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: #e8386d;
-  box-shadow: 0 0 7px #e8386d;
-}
-
-.gd-home .gd-brand {
-  font-size: 0.74rem;
-  font-style: italic;
-  font-weight: 700;
-  color: #cfcddc;
-}
-
-.gd-home .gd-screen {
-  padding: 1.4rem 1.3rem 1.2rem;
-  color: var(--gb-0);
-  background-color: var(--gb-3);
-  /* faint LCD pixel grid */
-  background-image:
-    linear-gradient(rgba(15, 56, 15, 0.09) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(15, 56, 15, 0.09) 1px, transparent 1px);
-  background-size: 3px 3px;
-  border-radius: 3px;
-  box-shadow: inset 0 0 0 2px var(--gb-1), inset 4px 4px 0 rgba(15, 56, 15, 0.25);
-}
-
-/* ---------- Title ---------- */
-.gd-home .gd-title {
-  margin: 0 0 0.9rem;
+.gd-home .gd-hero h1 {
+  margin: 0 0 0.5rem;
   padding: 0;
   border: 0;
-  font-family: var(--pixel-font);
-  font-size: clamp(0.95rem, 3.7vw, 1.45rem);
-  font-weight: 400;
-  line-height: 1.65;
-  color: var(--gb-0);
-  text-shadow: 3px 3px 0 var(--gb-2);
+  font-size: clamp(1.7rem, 5vw, 2.3rem);
+  line-height: 1.2;
+  color: var(--rp-text);
 }
 
-.gd-home .gd-tagline {
-  margin: 0 0 1.3rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--gb-1);
-}
-
-/* ---------- Menu ---------- */
-.gd-home .gd-screen ul {
+.gd-home .gd-hero p {
   margin: 0;
-  padding: 0;
-  list-style: none;
+  font-size: 1.05rem;
+  color: var(--rp-subtle);
 }
 
-.gd-home .gd-screen li {
+/* ---------- Cards ---------- */
+.gd-home .gd-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+}
+
+/* accent per card (rgb triplets so we can tint them) */
+.gd-home .gd-iris { --rgb: 196, 167, 231; --icon: "🗓️"; } /* iris */
+.gd-home .gd-foam { --rgb: 156, 207, 216; --icon: "ℹ️"; } /* foam */
+.gd-home .gd-rose { --rgb: 235, 188, 186; --icon: "📖"; } /* rose */
+
+.gd-home .gd-card {
   position: relative;
+  padding: 1.25rem 1.25rem 1.4rem;
+  background:
+    linear-gradient(160deg, rgba(var(--rgb), 0.12), transparent 60%),
+    var(--rp-surface);
+  border: 1px solid rgba(var(--rgb), 0.22);
+  border-top: 3px solid rgb(var(--rgb));
+  border-radius: 14px;
+  transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+/* icon chip */
+.gd-home .gd-card::before {
+  content: var(--icon);
+  display: grid;
+  place-items: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  background: rgba(var(--rgb), 0.16);
+  border-radius: 10px;
+}
+
+/* arrow, appears on hover */
+.gd-home .gd-card::after {
+  content: "→";
+  position: absolute;
+  right: 1.1rem;
+  top: 1.2rem;
+  color: rgb(var(--rgb));
+  opacity: 0;
+  transform: translateX(-6px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.gd-home .gd-card h3 {
+  margin: 0 0 0.35rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.15rem;
+  line-height: 1.3;
+}
+
+.gd-home .gd-card p {
   margin: 0;
-  padding: 0.6rem 0.6rem 0.6rem 1.9rem;
-  border-top: 2px solid var(--gb-1);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--rp-subtle);
 }
 
-.gd-home .gd-screen li:last-child {
-  border-bottom: 2px solid var(--gb-1);
-}
-
-.gd-home .gd-screen li::marker {
-  content: none;
-}
-
-.gd-home .gd-screen li a,
-.gd-home .gd-screen li a.internal-link {
-  display: block;
-  font-family: var(--pixel-font);
-  font-size: 0.78rem;
-  line-height: 1.6;
-  color: inherit;
+/* link fills the whole card */
+.gd-home .gd-card a,
+.gd-home .gd-card a.internal-link {
+  color: var(--rp-text);
   text-decoration: none;
   background: none;
   border: 0;
 }
 
-/* whole row is the click target */
-.gd-home .gd-screen li a::after {
+.gd-home .gd-card a::after {
   content: "";
   position: absolute;
   inset: 0;
+  border-radius: 14px;
 }
 
-.gd-home .gd-desc {
-  display: block;
-  margin-top: 0.25rem;
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: var(--gb-1);
+.gd-home .gd-card .header-anchor {
+  display: none;
 }
 
-/* cursor */
-.gd-home .gd-screen li::before {
-  content: "▶";
-  position: absolute;
-  left: 0.55rem;
-  top: 0.75rem;
-  font-size: 0.7rem;
-  opacity: 0;
+/* hover + keyboard focus */
+.gd-home .gd-card:hover,
+.gd-home .gd-card:focus-within {
+  transform: translateY(-4px);
+  border-color: rgba(var(--rgb), 0.6);
+  box-shadow: 0 14px 30px -14px rgba(var(--rgb), 0.5);
 }
 
-/* idle state: first row is "selected" and blinks */
-.gd-home .gd-screen li:first-child::before {
+.gd-home .gd-card:hover::after,
+.gd-home .gd-card:focus-within::after {
   opacity: 1;
-  animation: gd-blink 1s steps(1) infinite;
+  transform: translateX(0);
 }
 
-.gd-home .gd-screen ul:hover li:first-child::before {
-  opacity: 0;
-  animation: none;
-}
-
-/* selected row inverts like a highlighted menu item */
-.gd-home .gd-screen li:hover,
-.gd-home .gd-screen li:focus-within {
-  background: var(--gb-0);
-  color: var(--gb-3);
-}
-
-.gd-home .gd-screen li:hover::before,
-.gd-home .gd-screen li:focus-within::before {
-  opacity: 1;
-  animation: none;
-}
-
-.gd-home .gd-screen li:hover .gd-desc,
-.gd-home .gd-screen li:focus-within .gd-desc {
-  color: var(--gb-2);
-}
-
-/* ---------- Decorative controls ---------- */
-.gd-home .gd-controls {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1.5rem 1.2rem 0.6rem;
-}
-
-.gd-home .gd-dpad {
-  position: relative;
-  width: 66px;
-  height: 66px;
-}
-
-.gd-home .gd-dpad::before,
-.gd-home .gd-dpad::after {
-  content: "";
-  position: absolute;
-  background: #2e2d38;
-  border-radius: 4px;
-  box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.35);
-}
-
-.gd-home .gd-dpad::before {
-  inset: 22px 0;
-}
-
-.gd-home .gd-dpad::after {
-  inset: 0 22px;
-}
-
-.gd-home .gd-ab {
-  display: flex;
-  gap: 16px;
-  transform: rotate(-25deg);
-}
-
-.gd-home .gd-ab i {
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  background: var(--button);
-  box-shadow: inset -3px -3px 0 rgba(0, 0, 0, 0.25), 0 3px 0 rgba(0, 0, 0, 0.22);
-}
-
-/* ---------- Motion + small screens ---------- */
-@keyframes gd-blink {
-  50% {
-    opacity: 0;
-  }
+.gd-home .gd-card:hover a,
+.gd-home .gd-card:focus-within a {
+  color: rgb(var(--rgb));
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .gd-home .gd-screen li:first-child::before {
-    animation: none;
-  }
-}
-
-@media (max-width: 480px) {
-  .gd-home .gd-console {
-    padding: 0.9rem 0.9rem 0.8rem;
+  .gd-home .gd-card,
+  .gd-home .gd-card::after {
+    transition: none;
   }
 
-  .gd-home .gd-screen {
-    padding: 1.1rem 0.9rem 1rem;
-  }
-
-  .gd-home .gd-screen li a,
-  .gd-home .gd-screen li a.internal-link {
-    font-size: 0.68rem;
+  .gd-home .gd-card:hover,
+  .gd-home .gd-card:focus-within {
+    transform: none;
   }
 }
