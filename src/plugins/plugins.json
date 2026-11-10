@@ -82,7 +82,7 @@
       "repo": "koltensaccount/garden-plugin-toc-settings",
       "installedVersion": "1.1.0",
       "installedRef": "v1.1.0",
-      "installedAt": "2026-11-10T12:18:21.238Z",
+      "installedAt": "2026-11-10T12:25:03.641Z",
       "enabled": true,
       "files": [
         "src/plugins/toc-settings/LICENSE",
