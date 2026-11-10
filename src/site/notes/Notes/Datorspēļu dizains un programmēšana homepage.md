@@ -14,7 +14,7 @@ Katras nodarbības plāns un uzdevumi.
 
 ### [[Notes/Pulciņš info page\|Informācija]]
 
-viss par pulciņu un tā programmu.
+Viss par pulciņu un tā programmu.
 
 </div> <div class="gd-card gd-rose">
 
@@ -22,7 +22,6 @@ viss par pulciņu un tā programmu.
 
 Spēļu izstrādes termini vienkāršos vārdos.
 
-</div> </div> </div> <script> (function () { var bar = document.querySelector(".gd-finder"); if (!bar) return; bar.addEventListener("click", function () { // Look for the garden's own search button in the navbar var candidates = document.querySelectorAll( '.search-button, #search-button, button[class*="search"], [class*="search-btn"], [data-search]' ); for (var i = 0; i < candidates.length; i++) { if (candidates[i] !== bar && !bar.contains(candidates[i])) { candidates[i].click(); return; } } // Fallback: send the Ctrl/Cmd+K shortcut document.dispatchEvent(new KeyboardEvent("keydown", { key: "k", code: "KeyK", ctrlKey: true, metaKey: true, bubbles: true })); }); })(); </script>
-
+</div> </div> </div>
 
 ---
