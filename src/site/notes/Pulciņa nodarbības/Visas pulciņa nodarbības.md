@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pulcina-nodarbibas/visas-pulcina-nodarbibas/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana]]"],"tags":["note"],"created":"2026-09-14","aliases":["Pulciņa nodarbības","nodarbības","lekcijas","pulciņa lekcijas"],"cssclasses":null}}
 ---
 
-[[Notes/Datorspēļu dizains un programmēšana\|Atpakaļ]]
+[[Notes/Datorspēļu dizains un programmēšana homepage\|Atpakaļ]]
 
 ---
 

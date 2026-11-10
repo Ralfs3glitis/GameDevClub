@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/pulcina-izmantotas-terminologijas-vardnica/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"references":["[[Notes/Datorspēļu dizains un programmēšana]]"],"tags":["note"],"created":"2026-09-21","cssclasses":null}}
 ---
 
-[[Notes/Datorspēļu dizains un programmēšana\|Atpakaļ]]
+[[Notes/Datorspēļu dizains un programmēšana homepage\|Atpakaļ]]
 
 ---
 
