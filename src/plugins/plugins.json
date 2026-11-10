@@ -92,7 +92,18 @@
         "src/plugins/toc-settings/styles/toc-settings.css",
         "src/plugins/toc-settings/templates/config.njk",
         "src/plugins/toc-settings/tests/browser.test.cjs"
-      ]
+      ],
+      "settings": {
+        "textSize": "Medium",
+        "noteSpacing": "Comfortable",
+        "headingSpacing": "Comfortable",
+        "listHeight": "Medium",
+        "detail": "All headings",
+        "showTitle": true,
+        "highlightActive": true,
+        "collapsible": true,
+        "followActive": true
+      }
     }
   }
 }
