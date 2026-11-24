@@ -5,6 +5,7 @@
 [[Pulciņa nodarbības/17. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
+# Kā tu taisītu?
 
 Tu taisīsi *bullet heaven* žanra spēli.
 
