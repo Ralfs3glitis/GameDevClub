@@ -158,6 +158,10 @@ Spēļu mehānikas bieži tiek mantotas un "nošpikotas", taču, bieži vien, š
 
 
 
+[[Notes/Datorspēļu dizains un programmēšana\|Atpakaļ]]
+
+---
+
 # Materiāls
 <iframe src="/img/user/Attachments/MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" width="100%" height="900px" title="MDA_A_Formal_Approach_to_Game_Design_and_Game_Rese.pdf" style="border:1px solid #ccc;"></iframe>
 
@@ -211,6 +215,8 @@ Kad gribi kautko pievienot, jautā:
 
 
 
+
+[[Pulciņa nodarbības/1. Pulciņa nodarbība\|Atpakaļ]]
 
 ---
 # Video materiāls

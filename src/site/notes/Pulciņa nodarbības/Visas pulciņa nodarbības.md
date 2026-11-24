@@ -24,6 +24,8 @@
 | [[Pulciņa nodarbības/14. Pulciņa nodarbība\|14. Pulciņa nodarbība]] | 05.11.2026 |
 | [[Pulciņa nodarbības/15. Pulciņa nodarbība\|15. Pulciņa nodarbība]] | 10.11.2026 |
 | [[Pulciņa nodarbības/16. Pulciņa nodarbība\|16. Pulciņa nodarbība]] | 12.11.2026 |
+| [[Pulciņa nodarbības/17. Pulciņa nodarbība\|17. Pulciņa nodarbība]] | 24.11.2026 |
+| [[Pulciņa nodarbības/18. Pulciņa nodarbība\|18. Pulciņa nodarbība]] | 26.11.2026 |
 
 { .block-language-dataview}
 

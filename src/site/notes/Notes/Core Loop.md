@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/core-loop/","tags":["note"],"dg-note-properties":{"categories":["[[Categories/Projects]]"],"section":"[[Pulciņa nodarbības/1. Pulciņa nodarbība]]","tags":["note"],"created":"2026-09-14","cssclasses":null,"aliases":["Pamata cikls"]}}
 ---
 
+[[Pulciņa nodarbības/1. Pulciņa nodarbība\|Atpakaļ]]
+
 ---
 # Video materiāls
 
