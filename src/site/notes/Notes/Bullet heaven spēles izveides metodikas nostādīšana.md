@@ -23,4 +23,4 @@ Ar savām tagadējām zināšanām, kā tu šī žanra spēlē veidotu:
 - Vai izmantotu [[Notes/Godot resursi\|resursus]]? Kam?
 - Apraksti galveno loģiku pseidokodā.
 
-Pēc tam, uzzīmē sistēmas arhitektūru!
+Pēc tam, uzzīmē spēles mezglu arhitektūru!
